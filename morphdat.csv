@@ -1,0 +1,504 @@
+;JR;id;genus;species;gensp;sex;svl;femur;tib;tarsus;foot;head.length;head.width;humerus;radioulna;hand;fing.pad.L;fing.pad.W;toe.pad.L;toe.pad.W;fing.area;toe.area;HL.Webbing;ecomorph
+202;JR100;242;Albericus;gunneri;Albericus gunneri;m;17.47;8.08;7.88;5.03;6.31;4.57;5.67;5.73;3.9;5.55;0.29;0.72;0.37;0.62;0.836496;0.720316;0;scansorial
+215;JR118;239;Albericus;gunneri;Albericus gunneri;m;16.01;7.6;7.29;4.59;5.21;4.71;5.48;4.93;4.79;4.7;0.57;0.94;0.42;0.77;1.239672;1.015476;0;scansorial
+217;JR120;238;Albericus;gunneri;Albericus gunneri;m;16.77;7.96;7.5;5.29;6.12;5.12;5.58;5.03;4.97;5.11;0.73;1.14;0.59;0.9;2.111964;1.66734;0;scansorial
+220;JR124;270;Albericus;gunneri;Albericus gunneri;m;15.99;7.57;7.3;4.63;6.67;4.91;5.72;4.74;4.59;4.78;0.36;0.85;0.49;0.77;1.30781;1.184722;0;scansorial
+222;JR127;281;Albericus;gunneri;Albericus gunneri;m;16.48;7.94;7.45;4.71;5.86;4.15;5.58;5.12;5.04;4.74;0.53;0.85;0.45;0.7;1.20105;0.9891;0;scansorial
+223;JR13;290;Albericus;gunneri;Albericus gunneri;m;16.19;7.6;6.97;4.7;6.68;3.88;5.26;4.92;3.96;5.09;0.59;1.01;0.64;0.85;2.029696;1.70816;0;scansorial
+233;JR149;283;Albericus;gunneri;Albericus gunneri;m;16.8;7.66;7.38;4.92;4.5;4.51;5.09;5.99;5.35;5.33;0.39;0.95;0.36;0.48;1.07388;0.542592;0;scansorial
+234;JR15;339;Albericus;gunneri;Albericus gunneri;m;14.79;7.43;6.6;4.28;5.61;4.56;4.79;5.16;4.18;4.64;0.68;0.97;0.52;0.77;1.583816;1.257256;0;scansorial
+253;JR17;307;Albericus;gunneri;Albericus gunneri;f;14.47;7.73;6.92;4.46;5.58;4.42;4.89;5.11;3.98;4.7;0.72;0.72;0.51;0.77;1.153008;1.233078;0;scansorial
+292;JR22;308;Albericus;gunneri;Albericus gunneri;m;17.66;8.83;7.35;4.92;5.83;4.89;5.35;5.11;4.62;5.52;0.55;1.24;0.68;0.81;2.647648;1.729512;0;scansorial
+475;JR4;304;Albericus;gunneri;Albericus gunneri;m;16.32;7;7.08;4.85;6.23;5.27;5.47;5.2;4.25;5.32;0.63;1.06;0.31;0.69;1.031804;0.671646;0;scansorial
+508;JR47;344;Albericus;gunneri;Albericus gunneri;m;17.05;6.9;7.36;4.87;5.36;4.53;5.03;5.11;4.23;5.37;0.65;1.25;0.61;0.95;2.39425;1.81963;0;scansorial
+510;JR5;240;Albericus;gunneri;Albericus gunneri;m;16.34;7.07;7.19;5.35;6.12;4.55;5.57;5.28;4.52;5.61;0.74;0.99;0.79;0.83;2.455794;2.058898;0;scansorial
+522;JR60;201;Albericus;gunneri;Albericus gunneri;f;14.5;6.99;6.78;4.32;4.87;4.57;5.28;4.89;4.16;4.14;0.72;0.84;0.59;0.69;1.556184;1.278294;0;scansorial
+531;JR7;301;Albericus;gunneri;Albericus gunneri;m;15.54;7.64;7.47;4.66;6.52;4.34;5.86;5.38;4.06;5.04;0.96;1.27;0.81;0.99;3.230118;2.517966;0;scansorial
+538;JR76;321;Albericus;gunneri;Albericus gunneri;m;16.32;7.43;6.79;4.53;5.37;4.16;5.7;4.92;3.61;4.89;0.53;0.98;0.61;0.79;1.877092;1.513166;0;scansorial
+542;JR8;320;Albericus;gunneri;Albericus gunneri;m;16.25;8.13;7.22;4.59;6.53;4.71;5.09;5.51;4.38;5.06;0.97;1.37;0.51;0.74;2.193918;1.185036;0;scansorial
+543;JR80;322;Albericus;gunneri;Albericus gunneri;m;16.8;7.17;7.47;5.04;6.75;5.39;5.7;5.4;4.23;5.37;0.82;0.94;0.52;0.78;1.534832;1.273584;0;scansorial
+544;JR81;343;Albericus;gunneri;Albericus gunneri;m;16.33;7.06;7.1;4.34;5.35;4.86;5.25;4.97;4.47;4.81;0.75;1.52;0.84;0.95;4.009152;2.50572;0;scansorial
+545;JR82;300;Albericus;gunneri;Albericus gunneri;m;17.56;7.44;6.89;4.56;6.45;4.31;5.42;5.17;4.09;5.31;0.57;1.26;0.75;1.04;2.9673;2.4492;0;scansorial
+550;JR9;280;Albericus;gunneri;Albericus gunneri;m;18.23;7.39;9.01;5.5;8.55;5.48;5.6;5.25;4.38;4.85;0.83;0.95;0.61;0.77;1.81963;1.474858;0;scansorial
+555;JR94;340;Albericus;gunneri;Albericus gunneri;m;16.09;6.99;7.24;4.45;5.78;4.74;5.2;5.04;4.84;5.42;0.65;0.98;0.75;0.89;2.3079;2.09595;0;scansorial
+277;JR199;414;Albericus;sp. 2;Albericus sp. 2;m;19.26;7.63;7.43;4.89;6.3;4.32;6.3;5.46;4.07;5.26;0.67;1.12;0.5;0.61;1.7584;0.9577;0;scansorial
+301;JR228;413;Albericus;sp. 2;Albericus sp. 2;m;19.18;7.33;7.29;5.09;5.77;4.51;6.14;4.99;4.14;5.02;0.58;1.08;0.56;0.92;1.899072;1.617728;0;scansorial
+326;JR254;442;Albericus;sp. 2;Albericus sp. 2;m;16.87;7.93;7.35;4.74;5.99;4.94;5.74;4.96;4.25;4.7;0.58;1.03;0.46;0.84;1.487732;1.213296;0;scansorial
+327;JR262;441;Albericus;sp. 2;Albericus sp. 2;m;17.24;7.45;7.13;4.57;5.83;4.17;5.17;4.94;3.99;4.69;0.51;0.87;0.49;0.79;1.338582;1.215494;0;scansorial
+336;JR271;465;Albericus;sp. 2;Albericus sp. 2;m;12.7;5.62;5.3;3.31;3.41;3.34;4.64;3.85;3.24;4.16;0.74;0.94;0.52;0.68;1.534832;1.110304;0;scansorial
+344;JR279;467;Albericus;sp. 2;Albericus sp. 2;m;11.1;5.51;6.03;3.19;4.95;3.08;4.19;3.89;1.93;2.77;0.41;0.62;0.41;0.71;0.798188;0.914054;0;scansorial
+347;JR281;466;Albericus;sp. 2;Albericus sp. 2;m;17.3;8.07;7.24;4.95;6.49;5.47;5.74;5.14;4.26;5.2;0.55;1.07;0.56;0.81;1.881488;1.424304;0;scansorial
+302;JR229;400;Albericus;sp. 3;Albericus sp. 3;m;16.98;7.12;6.61;3.59;6.13;5.07;5.83;5.51;3.94;4.56;0.87;1.07;0.65;1;2.18387;2.041;0;scansorial
+304;JR230;412;Albericus;sp. 3;Albericus sp. 3;m;16.37;7.45;6.51;4.18;5.64;4.89;5.89;4.55;4.04;4.68;0.85;1.22;0.72;0.89;2.758176;2.012112;0;scansorial
+329;JR265;462;Albericus;sp. 3;Albericus sp. 3;m;15.53;7.45;6.5;4.17;4.7;4.99;4.94;4.58;3.8;4.26;0.57;0.84;0.38;0.67;1.002288;0.799444;0;scansorial
+338;JR273;463;Albericus;sp. 3;Albericus sp. 3;m;12.75;5.29;5.38;3.04;4.45;4;5.13;4.35;3.21;4.34;0.77;1.23;0.45;0.8;1.73799;1.1304;0;scansorial
+339;JR274;464;Albericus;sp. 3;Albericus sp. 3;m;17.53;7.88;7.03;4.67;5.8;5.15;5.85;4.92;3.95;4.58;0.55;1.14;0.55;0.78;1.96878;1.34706;0;scansorial
+341;JR276;461;Albericus;sp. 3;Albericus sp. 3;m;13.13;5.48;5.61;2.96;4.7;3.96;5.15;4.5;2.63;3.51;0.58;1.06;0.51;0.79;1.697484;1.265106;0;scansorial
+57;17778;538;Austrochaperina;palmipes;Austrochaperina palmipes;na;24.59;11.1;11.29;6.63;10.16;7.36;7.93;6.35;4.66;6.76;0.89;1.13;0.98;1.13;3.477236;3.477236;3;semiaquatic
+58;17779;546;Austrochaperina;palmipes;Austrochaperina palmipes;na;32.79;15.81;13.84;8;14.26;9.71;10.2;8.69;6.32;8.82;1.42;1.89;1.65;1.93;9.79209;9.99933;3;semiaquatic
+59;17780;550;Austrochaperina;palmipes;Austrochaperina palmipes;na;32.56;14.53;14.03;8.14;14.4;9.93;10.66;8.4;6.51;8.4;1.4;1.56;1.39;1.7;6.808776;7.41982;3;semiaquatic
+75;242211;19;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.29;19.03;16.89;10.67;16.13;11.63;13.87;9.49;7.25;10.88;1.31;2.26;1.85;2.19;13.12834;12.72171;3;semiaquatic
+76;242212;22;Austrochaperina;palmipes;Austrochaperina palmipes;na;31.85;15.53;13.51;7.97;13.89;9.49;10.25;8.75;5.91;8.52;1.27;1.39;1.36;1.5;5.935856;6.4056;3;semiaquatic
+77;242213;20;Austrochaperina;palmipes;Austrochaperina palmipes;na;36.4;17.55;15.41;8.91;16.73;12.29;13.19;8.64;7.94;9.95;1.46;1.95;1.39;1.84;8.51097;8.030864;3;semiaquatic
+78;242214;21;Austrochaperina;palmipes;Austrochaperina palmipes;na;36.64;16.47;15.38;9.24;16.69;10.74;11.7;7.63;6.98;10.45;1.67;1.95;1.72;2.07;10.53156;11.179656;3;semiaquatic
+79;242215;93;Austrochaperina;palmipes;Austrochaperina palmipes;na;38.59;18.43;16.49;9.35;17.19;11.46;13.07;10.22;8.17;10.94;1.74;2.14;1.75;2.11;11.7593;11.59445;3;semiaquatic
+80;242216;95;Austrochaperina;palmipes;Austrochaperina palmipes;na;43.61;19.74;18.58;10.75;17.4;13.12;14.44;9.2;7.66;11.24;2.05;2.33;1.74;2.23;12.730188;12.183828;3;semiaquatic
+81;242217;83;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.45;19.18;17.55;10.32;17.57;11.37;14.59;11.16;7.72;10.13;1.48;1.98;1.77;2.08;11.004444;11.560224;3;semiaquatic
+82;242218;94;Austrochaperina;palmipes;Austrochaperina palmipes;na;34.42;15.51;14.49;9.24;15.03;10.56;11.96;9.5;5.96;9.32;1.36;1.63;1.4;1.71;7.16548;7.51716;3;semiaquatic
+83;242219;101;Austrochaperina;palmipes;Austrochaperina palmipes;na;39.47;19.79;17.11;10.21;18.73;12.17;13.94;10.23;7.65;11.14;1.58;1.96;1.61;2.19;9.908584;11.071326;3;semiaquatic
+84;242220;102;Austrochaperina;palmipes;Austrochaperina palmipes;na;39.38;18.79;16.9;9.76;17.61;11.71;13.65;9.71;7.66;10.38;1.59;1.86;1.46;1.81;8.526984;8.297764;3;semiaquatic
+85;242221;103;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.26;18.74;16.35;10.24;16.84;11.53;13.96;10.82;7.65;10.59;1.5;1.84;1.49;2;8.608624;9.3572;3;semiaquatic
+86;242222;104;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.12;18.56;17;10.48;18.79;11.66;14.56;10.78;8.55;11.32;1.44;1.96;1.76;1.99;10.831744;10.997536;3;semiaquatic
+87;242223;105;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.2;18.58;16.28;10.09;17.47;11.07;13.94;8.09;8.07;9.85;1.63;2.32;1.7;2.04;12.38416;10.88952;3;semiaquatic
+88;242224;106;Austrochaperina;palmipes;Austrochaperina palmipes;na;38.57;18.76;16.12;10.16;17.88;11.32;14.04;9.97;8.09;11.05;1.42;1.91;1.61;1.78;9.655814;8.998612;3;semiaquatic
+89;242225;179;Austrochaperina;palmipes;Austrochaperina palmipes;na;15.33;7.77;6.95;4.38;7.11;4.72;5.25;4.25;3.16;4.09;0.56;0.6;0.68;0.82;1.28112;1.750864;3;semiaquatic
+241;JR157;365;Austrochaperina;palmipes;Austrochaperina palmipes;na;30.55;13.61;13.06;8.08;14.04;9.79;11.18;8.83;5.89;7.41;0.69;1.28;0.73;1.41;2.934016;3.232002;3;semiaquatic
+242;JR158;363;Austrochaperina;palmipes;Austrochaperina palmipes;na;29.81;14.13;14;8.42;13.78;9.66;11;8.31;6.08;8.34;1.32;1.48;1.14;1.45;5.297808;5.19042;3;semiaquatic
+243;JR159;362;Austrochaperina;palmipes;Austrochaperina palmipes;na;38.52;18.33;17.83;10.81;17.51;11.8;13.79;10.93;7.77;10.37;1.45;1.97;1.47;1.92;9.093126;8.862336;3;semiaquatic
+245;JR160;361;Austrochaperina;palmipes;Austrochaperina palmipes;na;38.27;18.32;11.9;10.15;15.83;11.3;14.23;10.08;7.65;9.85;1.59;1.72;1.63;1.97;8.803304;10.082854;3;semiaquatic
+246;JR161;360;Austrochaperina;palmipes;Austrochaperina palmipes;na;39.46;19.11;18.07;10.5;18.36;12.75;14.36;11.69;7.96;10.68;1.25;1.78;1.56;1.98;8.719152;9.698832;3;semiaquatic
+247;JR162;359;Austrochaperina;palmipes;Austrochaperina palmipes;na;28.73;12.91;12.17;7.64;12.74;10.38;10.18;7.86;5.84;7.42;1.39;1.33;1.29;1.53;5.387298;6.197418;3;semiaquatic
+248;JR163;358;Austrochaperina;palmipes;Austrochaperina palmipes;na;37.87;17.93;16.59;10.54;17.4;12.56;13.8;10.35;7.43;10.02;1.62;2.04;1.5;1.68;9.6084;7.9128;3;semiaquatic
+250;JR165;356;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.89;19.59;18.01;11.43;18.6;12.97;15.01;11.4;8.12;11.08;1.56;1.99;1.84;2.4;11.497424;13.86624;3;semiaquatic
+252;JR167;553;Austrochaperina;palmipes;Austrochaperina palmipes;na;31.12;14.46;13.54;8.56;15.11;10.53;10.7;8.55;5.85;5.12;0.56;1.13;0.89;1.35;3.157898;3.77271;3;semiaquatic
+254;JR171;368;Austrochaperina;palmipes;Austrochaperina palmipes;na;34.18;16.39;16.52;9.85;16.12;12.52;13.31;9.39;7.46;9.46;1.37;1.54;1.35;1.96;6.52806;8.30844;3;semiaquatic
+255;JR173;370;Austrochaperina;palmipes;Austrochaperina palmipes;na;20.84;10.47;10.07;5.99;8.81;6.69;8.16;5.42;4.69;5.11;0.43;0.88;0.47;1.05;1.298704;1.54959;3;semiaquatic
+256;JR174;366;Austrochaperina;palmipes;Austrochaperina palmipes;na;29.43;14.07;13.67;9.22;14.58;9.78;11.31;8.72;6.21;8.13;0.63;1.13;0.87;1.27;3.086934;3.469386;3;semiaquatic
+259;JR177;386;Austrochaperina;palmipes;Austrochaperina palmipes;na;37.36;17.3;16.06;9.16;16.34;12.93;13.41;9.92;7.85;9.36;0.88;1.62;0.88;1.56;4.476384;4.310592;3;semiaquatic
+261;JR179;382;Austrochaperina;palmipes;Austrochaperina palmipes;na;39.82;18.9;17.71;10.75;17.84;11.92;14.66;10.61;7.9;10.32;1.55;1.98;1.92;1.82;11.937024;10.972416;3;semiaquatic
+308;JR236;439;Austrochaperina;palmipes;Austrochaperina palmipes;na;34.55;17.43;15.87;10.1;15.88;12.42;12.13;9.8;6.63;9.18;1.28;1.61;1.68;1.73;8.493072;9.126096;3;semiaquatic
+328;JR263;477;Austrochaperina;palmipes;Austrochaperina palmipes;na;29.03;12.55;12.57;8.28;11.43;10.22;9.83;7.85;5.97;7.23;0.69;1;0.76;1.05;2.3864;2.50572;3;semiaquatic
+330;JR266;474;Austrochaperina;palmipes;Austrochaperina palmipes;na;32.3;14.87;13.89;8.75;14.16;11.82;11.47;8.57;6.4;7.93;0.65;1.14;0.76;1.33;2.720496;3.173912;3;semiaquatic
+332;JR268;475;Austrochaperina;palmipes;Austrochaperina palmipes;na;26.13;13.5;12.23;7.58;11.94;8.09;9.96;7.47;5.13;7.13;0.62;0.92;0.74;1.09;2.137712;2.532724;3;semiaquatic
+333;JR269;476;Austrochaperina;palmipes;Austrochaperina palmipes;na;29.83;13.36;13.84;7.79;13.46;10.11;11.22;7.5;5.94;7.54;1.21;1.48;0.98;1.42;4.554256;4.369624;3;semiaquatic
+342;JR277;468;Austrochaperina;palmipes;Austrochaperina palmipes;na;10.44;5.12;5.6;2.98;4.66;2.5;2.67;4.6;1.37;2.99;0.54;0.61;0.29;0.45;0.555466;0.40977;0;semiaquatic
+361;JR294;NA;Austrochaperina;palmipes;Austrochaperina palmipes;na;42.89;19.06;18.23;10.47;19.36;13.27;14.72;10.86;7.75;11.15;1.58;2.19;1.6;2.03;11.00256;10.19872;3;semiaquatic
+362;JR295;534;Austrochaperina;palmipes;Austrochaperina palmipes;na;44.74;19.86;17.89;11.23;19.76;14.54;16.92;12.33;8.25;12.12;1.91;2.54;1.96;2.54;15.632176;15.632176;3;semiaquatic
+398;JR327;541;Austrochaperina;palmipes;Austrochaperina palmipes;na;32.64;15.06;14.82;8.89;15.16;10.32;11.35;9.32;6.23;8.61;1.3;1.74;1.23;1.69;6.720228;6.527118;3;semiaquatic
+399;JR328;539;Austrochaperina;palmipes;Austrochaperina palmipes;na;43.67;20.13;17.99;10.75;18.9;14.31;15.5;12.04;8.77;10.68;1.91;2.54;1.69;2.21;13.478764;11.727586;3;semiaquatic
+400;JR329;535;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.58;20.52;17.59;10.87;20.36;13.67;14.93;11.82;9.39;12.22;1.55;2.07;1.56;2.01;10.139688;9.845784;3;semiaquatic
+402;JR330;NA;Austrochaperina;palmipes;Austrochaperina palmipes;na;41.22;17.65;16.56;10.11;17.86;13.01;14.71;11.27;8.6;10.27;1.47;2.3;1.38;2.22;9.96636;9.619704;3;semiaquatic
+403;JR331;548;Austrochaperina;palmipes;Austrochaperina palmipes;na;37.3;18.66;16.43;10.33;17.46;13.66;13.61;10.82;9.04;10.65;1.53;1.97;1.52;2.25;9.402416;10.7388;3;semiaquatic
+404;JR332;549;Austrochaperina;palmipes;Austrochaperina palmipes;na;33.26;16.09;14.59;9.34;15.67;12.23;12.32;9.63;7.15;9.07;1.41;1.7;1.26;1.84;6.72588;7.279776;3;semiaquatic
+405;JR333;543;Austrochaperina;palmipes;Austrochaperina palmipes;na;37.14;18.62;16.26;10.17;17.4;12.69;13.69;10.29;7.47;10.57;1.57;1.84;1.49;1.86;8.608624;8.702196;3;semiaquatic
+406;JR334;542;Austrochaperina;palmipes;Austrochaperina palmipes;na;35.57;18.58;16.08;9.84;17.64;11.18;13.44;9.87;7.33;10.18;1.92;1.74;1.32;1.71;7.211952;7.087608;3;semiaquatic
+407;JR335;540;Austrochaperina;palmipes;Austrochaperina palmipes;na;41.7;20.4;17.54;9.76;18.05;13.88;14.94;12.19;8.57;10.81;2.14;2.28;1.86;2.22;13.316112;12.965688;3;semiaquatic
+408;JR336;533;Austrochaperina;palmipes;Austrochaperina palmipes;na;25.53;12.07;12;7.28;13.09;8.45;9.73;5.74;5.62;6.66;0.57;0.9;0.64;1.07;1.80864;2.150272;3;semiaquatic
+409;JR337;544;Austrochaperina;palmipes;Austrochaperina palmipes;na;37.65;16.9;16.52;10.45;17.29;13.21;13.98;10.9;8.5;11.01;1.49;1.95;1.37;1.54;8.38851;6.624772;3;semiaquatic
+410;JR338;551;Austrochaperina;palmipes;Austrochaperina palmipes;na;36.85;17.91;16.45;10.1;18.03;12.13;14.36;10.35;8.53;10.68;1.63;2.07;1.62;2.34;10.529676;11.903112;3;semiaquatic
+411;JR339;537;Austrochaperina;palmipes;Austrochaperina palmipes;na;39.64;18.98;16.9;10.94;16.81;13.23;14.65;10.88;8.14;11.49;1.75;1.9;1.65;1.61;9.8439;8.34141;3;semiaquatic
+413;JR340;536;Austrochaperina;palmipes;Austrochaperina palmipes;na;32.95;16.73;15;9.13;13.34;8.91;11.85;9.81;7.54;9.76;1.46;1.8;1.38;1.64;7.79976;7.106448;3;semiaquatic
+414;JR341;554;Austrochaperina;palmipes;Austrochaperina palmipes;na;42.84;19.04;17.45;11.38;18.68;14.48;14.48;11.32;9.3;11.77;1.83;2.42;1.8;2.18;13.67784;12.32136;3;semiaquatic
+415;JR342;555;Austrochaperina;palmipes;Austrochaperina palmipes;na;36.3;18.75;16.7;10.12;17.51;11.64;12.91;10.44;7.39;10.63;1.55;2.04;1.19;2.03;7.622664;7.585298;3;semiaquatic
+416;JR343;552;Austrochaperina;palmipes;Austrochaperina palmipes;na;40.9;19.68;16.85;10.71;19.4;13.05;15;11.01;8.77;10.92;1.81;2.3;2.02;2.16;14.58844;13.700448;3;semiaquatic
+423;JR351;547;Austrochaperina;palmipes;Austrochaperina palmipes;na;43.71;20.54;17.81;10.2;18.89;12.78;16.45;11.11;8.66;12.2;2.15;2.35;1.79;2.38;13.20841;13.377028;3;semiaquatic
+425;JR353;NA;Austrochaperina;palmipes;Austrochaperina palmipes;na;41.95;19.3;17.76;10.22;18.39;14.03;14.87;11.11;8.84;11.59;1.78;2;1.51;2.49;9.4828;11.806086;3;semiaquatic
+306;JR234;457;Barygenys;atra;Barygenys atra;m;24.17;9.3;9.27;6.08;8.07;7.99;10.45;4.62;3.01;4.25;0.28;0.33;0.35;0.55;0.36267;0.60445;0;fossorial
+318;JR248;455;Barygenys;atra;Barygenys atra;m;22.23;9.32;9.27;6.21;10.02;7.02;8.55;5.85;4.5;4.64;0.39;0.44;0.51;0.62;0.704616;0.992868;0;fossorial
+322;JR251;458;Barygenys;atra;Barygenys atra;m;22.68;10.48;9.1;6.62;10.32;7.66;8.97;6.07;4.5;4.78;0.29;0.38;0.65;0.7;0.77558;1.4287;0;fossorial
+340;JR275;473;Barygenys;atra;Barygenys atra;m;19.73;8.1;7.2;4.71;7.86;6.62;9.03;4.52;2.91;4.05;0.31;0.29;0.6;0.57;0.54636;1.07388;0;fossorial
+90;242226;118;Callulops;doriae;Callulops doriae;?;74.39;33.74;29.07;17.78;31.86;12.65;18.58;20.2;13.28;19.39;2.49;1.96;2.66;2.48;16.370704;20.713952;0;fossorial
+91;242227;134;Callulops;doriae;Callulops doriae;m;78.28;33.75;30.02;17.29;33.28;11.87;18.73;22.34;13.6;18.93;1.66;1.85;2.52;2.43;14.63868;19.228104;0;fossorial
+357;JR290;509;Callulops;doriae;Callulops doriae;m;75.26;33.1;29.44;18.73;28.44;15.56;28.33;18.09;14.87;18.98;1.69;2.09;1.84;2.04;12.075184;11.786304;0;fossorial
+358;JR291;505;Callulops;doriae;Callulops doriae;m;74.93;33.49;30.08;17.57;31.89;14.83;29.77;13.33;14.46;19.34;1.45;1.99;2.27;1.83;14.184322;13.043874;0;fossorial
+364;JR297;510;Callulops;doriae;Callulops doriae;na;80.27;30.9;29.23;18.81;30.55;14.83;29.1;22.65;14.96;18.04;1.89;2.16;2.4;2.52;16.27776;18.99072;0;fossorial
+365;JR298;508;Callulops;doriae;Callulops doriae;na;72.77;30.53;25.79;16.89;28.8;15.81;25.49;16.92;14.44;16.23;1.53;2.44;2.46;2.24;18.847536;17.302656;0;fossorial
+366;JR299;506;Callulops;doriae;Callulops doriae;na;76.2;29.86;27.99;18.75;31.38;13.59;28.13;21.15;16.25;18.46;2.41;2.24;3.23;2.39;22.718528;24.239858;0;fossorial
+251;JR166;352;Callulops;personatus;Callulops personatus;m;79.8;33.31;29.16;19.37;32.39;17.72;26.43;21.16;15.46;17.62;1.56;2.05;2.29;2.12;14.74073;29.625272;0;fossorial
+343;JR278;472;Choerophryne;sp;Choerophryne sp;m;20.89;8.85;7.42;5.02;6.41;7.35;5.75;5.9;5.38;4.59;0.75;0.98;0.67;0.82;2.061724;1.725116;0;scansorial
+353;JR287;485;Choerophryne;sp;Choerophryne sp;m;19.32;7.71;6.94;4.76;4.44;7.45;5.41;5.67;4.26;4.68;0.61;0.97;0.5;0.77;1.5229;1.2089;0;scansorial
+54;;NA;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;30.4;14.91;16.16;9.33;14.76;10.33;10.67;7.79;6.77;7.41;1.12;1.85;1.31;1.65;7.60979;6.78711;0;scansorial
+249;JR164;369;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;27.71;13.33;14.55;8.61;13.21;8.9;9.73;7.2;6.37;7.38;1.52;1.59;1.15;1.14;5.74149;4.11654;0;scansorial
+262;JR181;374;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;17.61;9.57;9.94;6.09;9.31;6.1;6.42;5.4;4.5;4.01;0.27;0.47;0.4;0.7;0.59032;0.8792;1;scansorial
+266;JR186;377;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;29.04;12.27;15.33;8.43;13.89;9.37;10.06;7.14;6.37;7.42;1.23;1.73;1.1;1.49;5.97542;5.14646;0;scansorial
+293;JR220;389;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;25.55;13.63;13.68;8.72;14.39;9.72;9.42;7.13;6.3;7.57;1.39;1.77;1.23;1.48;6.836094;5.716056;0;scansorial
+296;JR223;391;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;28.81;14.03;14.59;8.33;13.92;9.7;10.11;7.03;6.27;8.61;1.65;1.59;1.1;1.34;5.49186;4.62836;0;scansorial
+299;JR226;390;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;25.82;13.97;14.64;8.67;13.66;9.49;9.19;6.45;5.62;6.81;0.95;1.42;0.97;1.33;4.325036;4.050914;0;scansorial
+300;JR227;388;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;27.47;13.64;14.43;8.69;13.33;9.72;8.84;7.15;5.55;7.21;1.07;1.67;1.04;1.46;5.453552;4.767776;0;scansorial
+305;JR233;432;Cophixalus;cheesmanae;Cophixalus cheesmanae;na;20.65;10.05;11.3;11.12;6.5;7;7.15;5.54;4.1;4.93;0.47;0.72;0.48;0.59;1.085184;0.889248;0;scansorial
+307;JR235;430;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;26.73;13.02;14.66;8.65;12.89;8.25;9.31;7.21;6.2;6.61;0.94;1.62;0.87;1.19;4.425516;3.250842;0;scansorial
+309;JR237;431;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;26.77;13.79;14.71;8.84;13.44;10.43;9.42;7.64;6.74;6.95;1.09;1.53;0.89;1.27;4.275738;3.549142;0;scansorial
+311;JR239;434;Cophixalus;cheesmanae;Cophixalus cheesmanae;f;30.06;16.25;17.59;10.26;15;8.93;9.78;9.56;7.56;8.41;1.29;1.55;1.13;1.24;5.49971;4.399768;0;scansorial
+321;JR250;435;Cophixalus;cheesmanae;Cophixalus cheesmanae;f;29.62;14.27;16.08;9.29;12.07;9.46;9.73;8.06;6.51;7.5;1.76;1.64;1.04;1.35;5.355584;4.40856;0;scansorial
+331;JR267;471;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;24.5;10.69;13.07;8.03;11.3;8.02;7.8;6.12;4.75;6.27;0.82;1.2;0.67;1.11;2.52456;2.335218;1;scansorial
+335;JR270;469;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;27.87;13.91;15.52;8.74;13.08;8.18;10.19;7.75;6.74;7.29;1.31;1.81;0.94;1.13;5.342396;3.335308;1;scansorial
+337;JR272;470;Cophixalus;cheesmanae;Cophixalus cheesmanae;m;28.64;14.81;15.33;9.24;12.55;8.59;9.3;8.05;5.98;7.87;1.24;1.66;1.18;1.32;6.150632;4.890864;1;scansorial
+92;242228;0;Cophixalus;desticans;Cophixalus desticans;m;14.34;6.68;7.37;4.99;6.68;3.67;4.16;4.2;2.92;2.8;0.28;0.35;0.65;0.63;0.71435;1.28583;0;terrestrial
+93;242229;51;Cophixalus;desticans;Cophixalus desticans;m;14.88;7.49;7.97;5.15;7.95;4.27;5.03;4.51;3.28;3.38;0.6;0.56;0.73;0.82;1.283632;1.879604;0;terrestrial
+94;242230;44;Cophixalus;desticans;Cophixalus desticans;f;17.76;9.29;9.45;5.95;9.34;5.76;5.83;5.06;3.83;3.72;0.35;0.45;0.75;0.81;1.05975;1.90755;0;terrestrial
+96;242232;90;Cophixalus;desticans;Cophixalus desticans;m;13.08;7.36;7.38;5.23;7.34;4.23;4.69;4.32;3.25;2.74;0.37;0.39;0.76;0.8;0.930696;1.90912;0;terrestrial
+97;242233;87;Cophixalus;desticans;Cophixalus desticans;m;11.14;6.44;6.33;4.15;5.83;4.06;4.12;3.26;2.5;2.39;0.29;0.28;0.43;0.45;0.378056;0.60759;0;terrestrial
+98;242234;112;Cophixalus;desticans;Cophixalus desticans;m;14.04;7.67;7.77;4.97;7.19;3.76;4.42;4.11;3;3.12;0.25;0.31;0.44;0.62;0.428296;0.856592;0;terrestrial
+100;242236;111;Cophixalus;desticans;Cophixalus desticans;m;17.16;8.67;9.35;5.71;9.74;4.5;5.53;5.24;3.76;3.45;0.39;0.39;0.89;0.95;1.089894;2.65487;0;terrestrial
+101;242237;148;Cophixalus;desticans;Cophixalus desticans;f;11.22;6.19;6.06;3.61;5.64;3.67;3.48;3.55;2.27;2.33;0.27;0.31;0.36;0.43;0.350424;0.486072;0;terrestrial
+102;242238;61;Cophixalus;desticans;Cophixalus desticans;m;9.11;4.99;4.36;3.54;4.46;3;3.08;2.71;1.96;2.02;0.31;0.31;0.22;0.36;0.214148;0.248688;0;terrestrial
+103;242239;129;Cophixalus;desticans;Cophixalus desticans;m;12.11;6.75;7.32;4.52;6.43;3.93;5.02;3.49;2.74;2.87;0.4;0.5;0.48;0.66;0.7536;0.994752;0;terrestrial
+104;242240;130;Cophixalus;desticans;Cophixalus desticans;m;15.09;7.03;7.57;4.91;7.03;5.04;5.73;3.97;2.93;2.92;0.33;0.51;0.56;0.75;0.896784;1.3188;0;terrestrial
+105;242241;135;Cophixalus;desticans;Cophixalus desticans;m;17.8;9.48;9.22;5.77;9.61;6;6.56;5;4.01;4.16;0.45;0.61;0.87;0.78;1.666398;2.130804;0;terrestrial
+106;242242;151;Cophixalus;desticans;Cophixalus desticans;f;18.99;9.28;9.36;6.22;10.07;5.73;6.38;5.15;4.14;4.2;0.55;0.69;0.98;1.03;2.123268;3.169516;0;terrestrial
+107;242243;154;Cophixalus;desticans;Cophixalus desticans;m;14.7;7.24;8.03;5.18;7.9;4.74;5.38;3.8;3.02;3.26;0.36;0.49;0.44;0.63;0.676984;0.870408;0;terrestrial
+108;242244;160;Cophixalus;desticans;Cophixalus desticans;m;14.65;7.18;7.97;5.12;7.55;4.32;5.05;4.09;3.18;2.96;0.2;0.37;0.28;0.63;0.325304;0.553896;0;terrestrial
+109;242245;161;Cophixalus;desticans;Cophixalus desticans;m;13.23;7.41;7.55;4.94;7.17;4.41;4.56;4.04;2.92;2.8;0.35;0.36;0.38;0.64;0.429552;0.763648;0;terrestrial
+110;242246;162;Cophixalus;desticans;Cophixalus desticans;m;14.73;7.28;7.67;4.93;7.17;4.28;4.64;4.15;2.89;3.24;0.44;0.46;0.67;0.73;0.967748;1.535774;0;terrestrial
+111;242247;165;Cophixalus;desticans;Cophixalus desticans;m;14.89;7.22;7.51;4.85;7.07;4.43;5.49;4.03;2.98;3;0.31;0.57;0.49;0.8;0.877002;1.23088;0;terrestrial
+359;JR292;617;Cophixalus;desticans;Cophixalus desticans;m;17.1;8.73;9.22;5.87;9.25;5.28;5.44;4.71;4.16;3.95;0.26;0.47;0.46;0.63;0.678868;0.909972;0;terrestrial
+363;JR296;607;Cophixalus;desticans;Cophixalus desticans;na;15.03;7.68;8.1;4.72;8.27;5.12;4.82;4.48;3.22;3.59;0.28;0.35;0.58;0.62;0.63742;1.129144;0;terrestrial
+424;JR352;619;Cophixalus;desticans;Cophixalus desticans;m;11.86;5.75;6.3;3.71;6;3.46;4.1;3.29;1.79;2.72;0.39;0.49;0.52;0.59;0.800072;0.963352;0;terrestrial
+457;JR383;611;Cophixalus;desticans;Cophixalus desticans;m;10.86;4.8;5.01;2.77;4.85;3.55;4.29;3.97;2.61;2.94;0.33;0.52;0.36;0.48;0.587808;0.542592;0;terrestrial
+469;JR394;504;Cophixalus;desticans;Cophixalus desticans;m;12.55;5.94;6.3;3.61;6.57;3.67;4.71;3.65;2.27;2.7;0.29;0.29;0.47;0.7;0.427982;1.03306;0;terrestrial
+478;JR401;615;Cophixalus;desticans;Cophixalus desticans;m;15.35;7.03;7.65;3.94;6.94;3.59;5.45;4.89;3.06;3.97;0.58;0.97;0.53;0.7;1.614274;1.16494;0;terrestrial
+479;JR402;622;Cophixalus;desticans;Cophixalus desticans;m;11.74;6.27;6.38;3.46;5.99;3.13;4.01;3.44;2.43;2.56;0.3;0.38;0.45;0.62;0.53694;0.87606;0;terrestrial
+480;JR403;605;Cophixalus;desticans;Cophixalus desticans;m;11.61;5.43;6.32;3.23;5.7;2.87;3.97;3.26;2.29;2.58;0.29;0.39;0.35;0.6;0.42861;0.6594;0;terrestrial
+481;JR404;620;Cophixalus;desticans;Cophixalus desticans;m;12.04;5.57;6.71;3.93;5.93;3.36;3.94;3.15;2.31;2.69;0.25;0.33;0.42;0.58;0.435204;0.764904;0;terrestrial
+483;JR406;562;Cophixalus;desticans;Cophixalus desticans;m;10.43;5.5;5.45;2.67;4.8;2.99;3.89;2.95;2.7;2.74;0.34;0.56;0.25;0.37;0.4396;0.29045;0;terrestrial
+485;JR408;621;Cophixalus;desticans;Cophixalus desticans;m;11.8;5.71;6.11;3.4;5.69;2.94;4.2;4.35;2.14;2.91;0.32;0.43;0.43;0.53;0.580586;0.715606;0;terrestrial
+486;JR409;563;Cophixalus;desticans;Cophixalus desticans;m;11.2;4.8;5.76;3.29;5.62;3.18;3.98;4.25;2.14;2.48;0.25;0.26;0.54;0.61;0.440856;1.034316;0;terrestrial
+489;JR411;616;Cophixalus;desticans;Cophixalus desticans;m;11.94;5.81;6.15;2.87;6.03;2.76;3.71;3.45;1.84;2.71;0.47;0.58;0.46;0.7;0.837752;1.01108;0;terrestrial
+490;JR412;614;Cophixalus;desticans;Cophixalus desticans;m;11.09;4.28;5.7;3.08;5.32;3.32;3.81;3.49;1.92;2.42;0.33;0.44;0.4;0.57;0.55264;0.71592;0;terrestrial
+492;JR414;613;Cophixalus;desticans;Cophixalus desticans;m;13.5;5.9;6.24;2.43;6.47;2.75;3.77;4.95;2.77;3.58;0.52;0.78;0.42;0.42;1.028664;0.553896;0;terrestrial
+493;JR416;608;Cophixalus;desticans;Cophixalus desticans;m;11.7;6.06;6.08;3.33;5.25;3.29;4.79;3.85;2.01;2.66;0.36;0.52;0.56;0.62;0.914368;1.090208;0;terrestrial
+501;JR423;612;Cophixalus;desticans;Cophixalus desticans;m;8.83;3.91;4.6;2.3;4.6;2.47;3.12;3.65;1.59;1.41;0.19;0.22;0.25;0.33;0.1727;0.25905;0;terrestrial
+502;JR424;606;Cophixalus;desticans;Cophixalus desticans;m;10.85;4.41;6.05;3.22;5.48;2.72;3.64;3.58;2.78;2.54;0.25;0.34;0.34;0.46;0.362984;0.491096;0;terrestrial
+503;JR425;618;Cophixalus;desticans;Cophixalus desticans;m;11.33;5.89;6.45;2.77;4.55;2.99;5.17;4.65;2.36;2.5;0.38;0.48;0.45;0.54;0.67824;0.76302;0;terrestrial
+351;JR285;482;Cophixalus;linneaus;Cophixalus linneaus;m;13.25;6.86;6.98;4.08;5.94;4.19;4.66;3.56;2.8;3.18;0.37;0.86;0.6;0.8;1.62024;1.5072;0;scansorial
+315;JR245;448;Cophixalus;pipilans;Cophixalus pipilans;m;19.93;9.13;9.91;6.25;9.08;6.68;7.06;5.18;4.1;4.29;0.35;0.52;0.45;0.67;0.73476;0.94671;0;terrestrial
+317;JR247;446;Cophixalus;pipilans;Cophixalus pipilans;f;19.03;10.2;10.36;6.19;9.22;7.04;7.41;4.62;4.67;4.3;0.29;0.56;0.47;0.73;0.826448;1.077334;0;terrestrial
+325;JR253;447;Cophixalus;pipilans;Cophixalus pipilans;m;19.62;9.15;9.61;5.83;9.22;7.84;6.36;4.58;4.29;4.22;0.27;0.44;0.47;0.81;0.649352;1.195398;0;terrestrial
+203;JR101;223;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.51;7.58;7.93;4.77;7.72;4.83;5.64;4.78;4.11;4.3;0.35;0.65;0.39;0.66;0.79599;0.808236;0;scansorial
+205;JR103;193;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.14;7.51;7.97;4.96;7.3;4.68;5.4;4.57;3.78;4.27;0.47;0.62;0.4;0.5;0.77872;0.628;0;scansorial
+212;JR111;272;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.33;6.87;7.82;5.45;7.32;5.22;6.07;5.18;4.4;4.2;0.47;0.69;0.34;0.48;0.736644;0.512448;0;scansorial
+214;JR113;350;Cophixalus;sp. 1;Cophixalus sp. 1;na;17.14;9.29;8.29;5.13;8.6;4.88;5.61;4.68;4.38;5.32;0.46;0.94;0.44;0.71;1.298704;0.980936;0;scansorial
+221;JR126;249;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.35;7.07;8.52;5.67;6.75;5.29;5.74;5.17;3.93;4.99;0.44;0.9;0.44;0.68;1.24344;0.939488;0;scansorial
+224;JR131;262;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.62;8.08;8.59;5.49;8.04;5.08;6;4.74;4.28;5.12;0.52;0.83;0.46;0.65;1.198852;0.93886;0;scansorial
+225;JR135;279;Cophixalus;sp. 1;Cophixalus sp. 1;m;15.78;8.23;8.05;5.06;7.82;5.06;5.46;4.75;4.48;4.77;0.46;0.93;0.39;0.57;1.138878;0.698022;0;scansorial
+227;JR137;275;Cophixalus;sp. 1;Cophixalus sp. 1;m;15.89;7.82;8.12;5.23;6.69;5.06;5.23;4.78;3.63;3.9;0.38;0.68;0.37;0.5;0.790024;0.5809;0;scansorial
+229;JR141;305;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.11;8.11;8.22;4.85;7.94;5.64;6.31;5.76;3.86;3.96;0.47;0.89;0.4;0.74;1.11784;0.92944;0;scansorial
+230;JR144;299;Cophixalus;sp. 1;Cophixalus sp. 1;m;15.21;8.09;7.99;4.93;6.97;4.17;5.33;5.33;3.99;3.36;0.47;0.74;0.37;0.56;0.859732;0.650608;0;scansorial
+235;JR150;244;Cophixalus;sp. 1;Cophixalus sp. 1;m;15.51;7.43;8.02;4.82;7.39;5.37;4.9;4.54;3.7;4.75;0.43;0.86;0.39;0.72;1.053156;0.881712;0;scansorial
+236;JR151;333;Cophixalus;sp. 1;Cophixalus sp. 1;f;22.76;10.28;12.63;7.66;11.97;7.59;9.09;6.67;5.84;6.58;0.75;1.13;0.48;1.07;1.703136;1.612704;0;scansorial
+237;JR152;296;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.5;8.22;8.1;5.25;7.55;5.39;6.05;4.4;4.36;4.66;0.53;0.81;0.35;0.67;0.89019;0.73633;0;scansorial
+239;JR154;264;Cophixalus;sp. 1;Cophixalus sp. 1;m;15.39;8.05;8.1;4.82;7.65;5.53;5.7;4.59;4.05;5.03;0.45;0.92;0.35;0.59;1.01108;0.64841;0;scansorial
+270;JR19;292;Cophixalus;sp. 1;Cophixalus sp. 1;m;13.23;7.61;6.99;4.36;6.57;4.21;4.58;3.98;3.27;4.11;0.66;0.87;0.5;0.59;1.3659;0.9263;0;scansorial
+278;JR2;276;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.94;8.58;8.46;5.38;7.71;5.56;5.37;5.1;4.52;4.78;0.67;0.85;0.44;0.63;1.17436;0.870408;0;scansorial
+289;JR21;297;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.18;8.4;8;5.04;8.11;4.85;5.47;4.8;3.82;5.07;0.48;1.04;0.5;0.68;1.6328;1.0676;0;scansorial
+334;JR27;289;Cophixalus;sp. 1;Cophixalus sp. 1;na;17.2;8.72;7.94;5.32;8.25;4.83;5.84;4.99;3.81;4.84;0.51;0.86;0.61;0.8;1.647244;1.53232;0;scansorial
+511;JR50;295;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.44;8.73;8.45;4.88;7.66;4.88;5.5;5.2;4;4.9;0.59;1.11;0.54;0.87;1.882116;1.475172;0;scansorial
+525;JR63;267;Cophixalus;sp. 1;Cophixalus sp. 1;m;17.04;8.5;8.19;5.05;8.32;4.57;5.51;4.74;3.75;4.9;0.81;0.96;0.55;0.64;1.65792;1.10528;0;scansorial
+536;JR74;345;Cophixalus;sp. 1;Cophixalus sp. 1;m;11.43;5.52;6.99;3.93;6.57;4.32;5.52;5.96;2.6;4.16;0.6;1.03;0.48;0.69;1.552416;1.039968;0;scansorial
+548;JR87;192;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.12;7.76;7.9;4.88;7.34;4.76;5.51;4.72;3.91;4.79;0.44;0.96;0.25;0.58;0.7536;0.4553;0;scansorial
+557;JR96;263;Cophixalus;sp. 1;Cophixalus sp. 1;m;16.11;8.08;7.92;5.21;7.48;4.68;5.79;4.66;4.2;4.28;0.35;0.76;0.24;0.5;0.572736;0.3768;0;scansorial
+213;JR112;230;Cophixalus;sp. 2;Cophixalus sp. 2;m;12.79;5.48;6.35;3.94;5.96;3.59;4.64;3.64;3.16;2.99;0.25;0.41;0.28;0.43;0.360472;0.378056;0;terrestrial
+513;JR52;224;Cophixalus;sp. 2;Cophixalus sp. 2;m;12.56;6.38;6.58;3.84;5.98;4.08;4.18;3.72;3.16;3.39;0.24;0.5;0.55;0.67;0.8635;1.15709;0;terrestrial
+514;JR53;232;Cophixalus;sp. 2;Cophixalus sp. 2;m;14.04;7.02;6.94;4.18;6.54;3.86;4.81;4.11;3.25;3.96;0.44;0.65;0.51;0.57;1.04091;0.912798;0;terrestrial
+524;JR62;265;Cophixalus;sp. 2;Cophixalus sp. 2;m;12.33;5.38;5.3;2.51;5.45;3.85;4.56;3.56;2.46;2.81;0.34;0.63;0.5;0.55;0.9891;0.8635;0;terrestrial
+526;JR65;243;Cophixalus;sp. 2;Cophixalus sp. 2;m;12.31;6.11;5.99;3.18;5.43;2.85;4.32;4.2;2.34;3.2;0.38;0.53;0.48;0.61;0.798816;0.919392;0;terrestrial
+527;JR66;227;Cophixalus;sp. 2;Cophixalus sp. 2;m;12.5;5.64;5.91;3.85;4.14;3.73;4.38;3.87;2.55;3.15;0.34;0.54;0.52;0.66;0.881712;1.077648;0;terrestrial
+528;JR67;231;Cophixalus;sp. 2;Cophixalus sp. 2;m;11.33;5.56;5.73;3.03;5.12;3.39;4.63;4.26;2.3;2.44;0.37;0.63;0.5;0.57;0.9891;0.8949;0;terrestrial
+533;JR71;347;Cophixalus;sp. 2;Cophixalus sp. 2;m;11.21;6.28;6.11;3.23;5.58;4.66;6.14;3.98;2.16;3.27;0.41;0.61;0.46;0.69;0.881084;0.996636;0;terrestrial
+534;JR72;317;Cophixalus;sp. 2;Cophixalus sp. 2;m;11.78;5.78;6.05;2.62;5.37;3.72;5.25;4.1;2.43;3.03;0.27;0.35;0.48;0.55;0.52752;0.82896;0;terrestrial
+546;JR83;341;Cophixalus;sp. 2;Cophixalus sp. 2;m;11.83;5.72;6.24;3.32;5.78;3.56;5.19;3.79;2.44;3.4;0.43;0.73;0.51;0.76;1.169022;1.217064;0;terrestrial
+95;242231;89;Cophixalus;variabilis;Cophixalus variabilis;m;14.34;6.61;7.13;4.58;7.28;4;4.31;3.93;3.08;3.06;0.23;0.25;0.34;0.61;0.2669;0.651236;0;scansorial
+99;242235;113;Cophixalus;variabilis;Cophixalus variabilis;m;15.24;7.99;7.87;4.93;8.41;4.36;4.66;4.13;3.51;3.32;0.41;0.45;0.66;0.89;0.93258;1.844436;0;scansorial
+112;242262;37;Cophixalus;variabilis;Cophixalus variabilis;m;13.44;6.16;6.77;4.13;6.56;3.76;4.13;4.07;3.78;3.74;0.41;0.67;0.34;0.46;0.715292;0.491096;0;scansorial
+113;242263;7;Cophixalus;variabilis;Cophixalus variabilis;m;17.87;8.99;9.02;5.52;8.91;4.57;4.98;5.21;4.24;4.14;0.65;0.99;0.62;0.88;1.927332;1.713184;0;scansorial
+114;242264;6;Cophixalus;variabilis;Cophixalus variabilis;f;15.1;8.21;8.65;5.42;7.27;4.24;5.41;4.84;3.83;3.51;0.61;0.99;0.77;1;2.393622;2.4178;0;scansorial
+115;242265;18;Cophixalus;variabilis;Cophixalus variabilis;m;15.63;7.53;7.93;5.31;7.51;3.43;4.94;4.52;3.75;4.16;0.62;0.73;0.63;0.86;1.444086;1.701252;0;scansorial
+116;242266;13;Cophixalus;variabilis;Cophixalus variabilis;m;14.2;7.47;7.62;4.94;7;4.27;4.78;4.21;3.85;3.62;0.7;0.9;0.58;0.81;1.63908;1.475172;0;scansorial
+117;242267;35;Cophixalus;variabilis;Cophixalus variabilis;m;14.09;7.92;7.49;4.75;6.66;3.94;5.14;4.5;3.78;3.85;0.43;0.82;0.44;0.67;1.132912;0.925672;0;scansorial
+118;242268;59;Cophixalus;variabilis;Cophixalus variabilis;m;13.98;8.12;7.98;4.77;6.69;3.76;4.79;4.06;3.29;4.08;0.66;0.85;0.52;0.69;1.38788;1.126632;0;scansorial
+119;242269;36;Cophixalus;variabilis;Cophixalus variabilis;m;14.86;7.9;7.6;4.95;7.08;3.95;5.17;4.05;3.35;3.92;0.69;0.82;0.62;0.84;1.596376;1.635312;0;scansorial
+120;242270;53;Cophixalus;variabilis;Cophixalus variabilis;m;14.16;7.9;7.65;5.29;7.36;3.64;4.67;4.39;3.51;4.1;0.54;0.54;0.58;0.78;0.983448;1.420536;0;scansorial
+121;242271;27;Cophixalus;variabilis;Cophixalus variabilis;m;16.7;8.63;8.88;8.61;7.88;4.55;5.71;5.63;3.91;4.46;0.8;0.94;0.62;0.81;1.829992;1.576908;0;scansorial
+122;242272;41;Cophixalus;variabilis;Cophixalus variabilis;m;15.31;8.36;8.58;5.22;7.33;4.5;5.8;4.63;3.59;3.69;0.63;0.91;0.64;0.78;1.828736;1.567488;0;scansorial
+123;242273;42;Cophixalus;variabilis;Cophixalus variabilis;m;12.84;6.62;6.67;4.32;5.6;3.42;3.84;3.96;2.99;3.6;0.38;0.68;0.41;0.47;0.875432;0.605078;0;scansorial
+124;242274;43;Cophixalus;variabilis;Cophixalus variabilis;m;13.85;6.93;7.08;5.13;6.83;3.34;3.89;4.13;2.91;4;0.68;0.83;0.46;0.64;1.198852;0.924416;0;scansorial
+125;242275;46;Cophixalus;variabilis;Cophixalus variabilis;m;17.54;9.13;9.01;5.56;9.27;4.82;6.84;4.98;4.24;5.07;0.71;0.95;0.56;0.95;1.67048;1.67048;0;scansorial
+126;242276;49;Cophixalus;variabilis;Cophixalus variabilis;m;15.08;7.92;7.85;5.17;6.88;4.22;5.53;4.49;3.35;4.13;0.69;0.92;0.6;0.82;1.73328;1.54488;0;scansorial
+430;JR358;571;Cophixalus;variabilis;Cophixalus variabilis;m;12.67;5.92;6.21;3.08;6.01;3.31;4.63;2.98;2.49;3.29;0.58;0.88;0.44;0.61;1.215808;0.842776;0;scansorial
+434;JR361;489;Cophixalus;variabilis;Cophixalus variabilis;m;11.57;5.58;6.12;3.56;5.24;3.28;4.22;3.12;2.26;3.28;0.49;0.77;0.37;0.55;0.894586;0.63899;0;scansorial
+445;JR371;496;Cophixalus;variabilis;Cophixalus variabilis;m;11.13;5.8;6.24;3.52;4.38;2.96;4.38;2.69;2.8;3.18;0.51;0.85;0.43;0.62;1.14767;0.837124;0;scansorial
+446;JR372;522;Cophixalus;variabilis;Cophixalus variabilis;m;12.92;5.93;6;2.47;6.27;3.24;4.85;3.69;2.78;3.35;0.42;0.8;0.33;0.4;0.82896;0.41448;0;scansorial
+447;JR373;494;Cophixalus;variabilis;Cophixalus variabilis;m;12.06;5.33;6.49;2.99;6.18;3.48;4.28;3.48;2.84;3.29;0.46;0.61;0.44;0.63;0.842776;0.870408;0;scansorial
+448;JR374;488;Cophixalus;variabilis;Cophixalus variabilis;m;12.56;5.51;5.89;3.63;5.27;3.12;4.27;2.87;2.64;3.2;0.57;0.66;0.31;0.48;0.642444;0.467232;0;scansorial
+452;JR379;525;Cophixalus;variabilis;Cophixalus variabilis;m;12.24;5.64;6.28;3.61;6.02;3.35;4.51;3.56;2.53;2.05;0.51;0.88;0.48;0.74;1.326336;1.115328;0;scansorial
+454;JR380;521;Cophixalus;variabilis;Cophixalus variabilis;m;12.81;5.75;6.07;3.28;5.8;3.32;4.19;3.49;2.55;3.44;0.47;0.85;0.47;0.58;1.25443;0.855964;0;scansorial
+455;JR381;529;Cophixalus;variabilis;Cophixalus variabilis;m;11.72;5.97;6.12;3.19;5.3;2.95;4.05;3.54;2.68;3.34;0.54;0.72;0.37;0.44;0.836496;0.511192;0;scansorial
+456;JR382;531;Cophixalus;variabilis;Cophixalus variabilis;m;12.07;6.05;6.25;4.13;5.54;3.35;4.55;3.58;2.72;3.47;0.6;0.76;0.54;0.71;1.288656;1.203876;0;scansorial
+458;JR384;630;Cophixalus;variabilis;Cophixalus variabilis;m;12.49;5.16;6.71;3.71;5.57;3.62;4.63;3.12;2.33;3.49;0.56;0.72;0.29;0.52;0.655632;0.473512;0;scansorial
+459;JR385;519;Cophixalus;variabilis;Cophixalus variabilis;m;15.62;8.06;7.19;3.67;7.19;4.08;5.09;3.8;2.97;3.93;0.59;0.93;0.39;0.69;1.138878;0.844974;0;scansorial
+460;JR386;520;Cophixalus;variabilis;Cophixalus variabilis;m;11.59;5.38;5.87;3.54;5.4;3.4;4.3;3.96;2.51;3.41;0.51;0.78;0.36;0.6;0.881712;0.67824;0;scansorial
+461;JR387;490;Cophixalus;variabilis;Cophixalus variabilis;m;13.35;6.8;6.51;3.72;6.13;3.49;4.91;3.46;2.71;3.86;0.55;0.83;0.26;0.42;0.677612;0.342888;0;scansorial
+462;JR388;523;Cophixalus;variabilis;Cophixalus variabilis;m;14.45;7.3;7.04;4.39;6.3;3.86;5.17;3.26;2.57;3.85;0.63;0.89;0.57;0.82;1.592922;1.467636;0;scansorial
+463;JR389;524;Cophixalus;variabilis;Cophixalus variabilis;m;13.38;6.88;6.85;3.74;5.79;3.63;5.21;2.4;2.56;3.47;0.51;0.75;0.38;0.65;0.8949;0.77558;0;scansorial
+466;JR391;528;Cophixalus;variabilis;Cophixalus variabilis;m;13.61;6.61;7.32;4.31;6.04;3.53;4.81;3.49;2.55;4.25;0.5;0.81;0.38;0.51;0.966492;0.608532;0;scansorial
+467;JR392;491;Cophixalus;variabilis;Cophixalus variabilis;m;15.79;7.2;7.48;4.37;6.65;3.69;5.36;4.2;2.96;4.48;0.7;1.03;0.4;0.67;1.29368;0.84152;0;scansorial
+468;JR393;532;Cophixalus;variabilis;Cophixalus variabilis;m;13.41;6.4;7.08;3.89;6.68;3.45;4.8;3.24;2.94;4.06;0.51;0.81;0.38;0.65;0.966492;0.77558;0;scansorial
+470;JR395;527;Cophixalus;variabilis;Cophixalus variabilis;m;13.09;6.85;6.98;4.23;5.22;4.27;5.2;3.89;2.68;3.72;0.57;0.81;0.41;0.64;1.042794;0.823936;0;scansorial
+471;JR396;492;Cophixalus;variabilis;Cophixalus variabilis;m;13.65;6.98;7.06;4.11;6.88;3.46;4.99;3.8;3.03;4.02;0.6;0.84;0.54;0.65;1.424304;1.10214;0;scansorial
+473;JR398;493;Cophixalus;variabilis;Cophixalus variabilis;m;14.61;6.21;7.01;3.34;6.17;4.45;5.39;3.56;3.15;3.82;0.65;0.82;0.54;0.78;1.390392;1.322568;0;scansorial
+474;JR399;530;Cophixalus;variabilis;Cophixalus variabilis;m;13.81;7.27;7.44;4.15;6.46;4.03;5.34;4.1;3.44;4.8;0.67;1.17;0.35;0.67;1.28583;0.73633;0;scansorial
+477;JR400;570;Cophixalus;variabilis;Cophixalus variabilis;m;13.25;5.83;6.03;2.78;5.7;2.86;4.3;2.78;2.65;3.19;0.6;0.77;0.48;0.61;1.160544;0.919392;0;scansorial
+482;JR405;568;Cophixalus;variabilis;Cophixalus variabilis;m;11.94;5.08;5.62;3.49;5.21;3.03;4.08;3.48;2.43;3.33;0.42;0.61;0.32;0.5;0.612928;0.5024;0;scansorial
+484;JR407;573;Cophixalus;variabilis;Cophixalus variabilis;m;12.99;5.79;6.36;3.67;5.56;3.16;4.2;2.23;2.54;3.52;0.35;0.74;0.34;0.72;0.790024;0.768672;0;scansorial
+488;JR410;572;Cophixalus;variabilis;Cophixalus variabilis;m;12.88;6.51;6.48;4.22;5.35;3.21;4.33;3.87;2.39;3.45;0.46;0.61;0.39;0.56;0.747006;0.685776;0;scansorial
+491;JR413;569;Cophixalus;variabilis;Cophixalus variabilis;m;13.2;5.78;7.03;3.56;6;3.88;4.84;3.15;2.61;3.4;0.54;0.9;0.6;0.71;1.6956;1.33764;0;scansorial
+127;242282;34;Cophixalus;verrucosus;Cophixalus verrucosus;f;21.38;16.28;11.94;6.85;11.75;6.02;6.5;5.92;5.17;5.73;0.76;0.72;0.68;0.86;1.537344;1.836272;0;scansorial
+128;242283;17;Cophixalus;verrucosus;Cophixalus verrucosus;m;19.17;10.36;10.02;6.6;10.61;5.57;6.92;5.49;4.09;5.2;0.63;1.04;0.93;1.2;3.037008;3.50424;0;scansorial
+129;242284;64;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.9;10.47;11.08;7.02;11.11;6.63;7.72;4.72;5.8;5.94;0.92;0.89;0.93;1.12;2.598978;3.270624;0;scansorial
+130;242285;66;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.69;11.01;11.28;6.87;10.17;5.15;7.14;4.8;5.02;5.62;1.06;1.11;1.03;0.76;3.589962;2.457992;0;scansorial
+131;242286;69;Cophixalus;verrucosus;Cophixalus verrucosus;m;19.61;10.73;10.88;6.63;9.59;6.14;6.41;4.92;5.56;5.09;0.87;0.87;0.85;1.03;2.32203;2.74907;0;scansorial
+132;242287;79;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.59;11.41;11.35;6.77;10.49;5.44;6.95;4.98;5.37;6.02;1.13;1.05;0.92;1.09;3.03324;3.148792;0;scansorial
+133;242288;81;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.35;11.2;11.16;6.17;10;5.72;7.23;5.3;4.14;5.56;0.68;0.99;0.87;1.15;2.704482;3.14157;0;scansorial
+134;242289;65;Cophixalus;verrucosus;Cophixalus verrucosus;f;26;14.26;14.94;8.9;13.84;8.41;9.15;7.19;6.8;7.35;1.14;1.42;1.15;1.33;5.12762;4.80263;0;scansorial
+135;242290;68;Cophixalus;verrucosus;Cophixalus verrucosus;m;18.67;9.91;10.85;7.08;9.75;5.99;7.36;5.41;4.22;5.17;0.97;0.98;0.74;0.96;2.277128;2.230656;0;scansorial
+136;242291;80;Cophixalus;verrucosus;Cophixalus verrucosus;m;19.01;10.96;11.27;6.51;10.34;6.52;7.3;5.81;4.85;5.15;0.43;0.82;0.47;0.74;1.210156;1.092092;0;scansorial
+137;242292;82;Cophixalus;verrucosus;Cophixalus verrucosus;m;21.48;10.68;11.03;6.55;10.61;6.93;8.21;5.67;4.89;5.56;0.57;0.89;0.56;0.86;1.564976;1.512224;0;scansorial
+138;242293;84;Cophixalus;verrucosus;Cophixalus verrucosus;m;19.68;10.22;11.02;6.53;10.91;6.15;7.39;5.89;4.78;5.73;0.54;1.04;0.57;1.13;1.861392;2.022474;0;scansorial
+139;242294;85;Cophixalus;verrucosus;Cophixalus verrucosus;m;19.45;10.92;11.17;6.4;10.75;6.32;7.44;5.35;4.46;5.75;0.57;1.01;0.68;1.04;2.156552;2.220608;0;scansorial
+140;242295;96;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.7;10.22;10.59;6.68;10.64;6.28;6.85;5.41;4.7;5.63;0.56;1.04;0.44;1.12;1.436864;1.547392;0;scansorial
+141;242296;98;Cophixalus;verrucosus;Cophixalus verrucosus;m;15.49;7.82;8.34;4.93;7.47;5.6;5.42;4.06;3.01;3.66;0.53;0.76;0.47;0.72;1.121608;1.062576;0;scansorial
+142;242297;99;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.61;11.1;10.87;6.5;10.04;6.94;7.58;5.6;4.6;4.81;0.47;0.74;0.64;0.79;1.487104;1.587584;0;scansorial
+143;242298;108;Cophixalus;verrucosus;Cophixalus verrucosus;m;21.07;11.41;11.34;6.98;11.5;6.47;7.17;5.63;5.09;5.87;0.71;1.07;0.53;0.93;1.780694;1.547706;0;scansorial
+144;242299;110;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.04;9.96;10.88;6.25;10.49;6.65;8.57;5.09;5.13;5.71;0.58;0.96;0.44;0.89;1.326336;1.229624;0;scansorial
+431;JR359;583;Cophixalus;verrucosus;Cophixalus verrucosus;m;22.53;11.35;11.87;7.28;10.96;7.27;7.89;5.93;5.56;6.62;0.85;1.17;0.88;1.06;3.232944;2.928992;0;scansorial
+433;JR360;565;Cophixalus;verrucosus;Cophixalus verrucosus;m;22.1;11.35;11.85;7.09;11.91;7.44;7.22;5.92;4.94;5.89;0.69;1.12;0.64;0.88;2.250752;1.768448;0;scansorial
+435;JR362;589;Cophixalus;verrucosus;Cophixalus verrucosus;m;15.79;7.09;8.51;5.59;8.42;5.5;5.56;4.31;4.08;4.85;0.6;1.07;0.57;0.88;1.915086;1.575024;0;scansorial
+437;JR364;585;Cophixalus;verrucosus;Cophixalus verrucosus;m;22.25;11.67;11.9;7.04;11.29;7.63;8.94;5.74;4.64;6.17;0.83;1.2;0.72;1.01;2.71296;2.283408;0;scansorial
+438;JR365;582;Cophixalus;verrucosus;Cophixalus verrucosus;m;21.27;10.81;12.42;7.35;11.67;7.44;7.26;5.84;5.03;6.5;0.74;1.02;0.76;1.03;2.434128;2.457992;0;scansorial
+439;JR366;587;Cophixalus;verrucosus;Cophixalus verrucosus;m;13.36;6.27;6.93;3.96;5.36;3.96;5.01;4.3;2.76;2.78;0.51;0.89;0.48;0.69;1.341408;1.039968;0;scansorial
+440;JR367;526;Cophixalus;verrucosus;Cophixalus verrucosus;m;11.93;5.59;6.36;3.47;5.83;2.9;4.52;4.26;2.61;3.34;0.53;0.8;0.47;0.66;1.18064;0.974028;0;scansorial
+441;JR368;586;Cophixalus;verrucosus;Cophixalus verrucosus;m;18.43;8.06;9.28;5.75;9.25;5.48;5.7;4.93;4.35;5.41;0.52;1.03;0.54;0.79;1.746468;1.339524;0;scansorial
+444;JR370;566;Cophixalus;verrucosus;Cophixalus verrucosus;m;22.29;10.14;11.98;6.99;10.72;7.43;8.17;5.75;4.93;6.54;0.6;1.07;0.4;0.91;1.34392;1.14296;0;scansorial
+495;JR418;588;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.53;10.13;11.27;6.67;10.87;7.26;7.04;6.23;3.9;6.11;0.6;1.1;0.66;1.07;2.27964;2.217468;0;scansorial
+498;JR420;564;Cophixalus;verrucosus;Cophixalus verrucosus;m;21.1;10.69;11.97;6.91;9.83;6.59;7.16;5.89;4.38;6.1;0.6;0.97;0.59;0.97;1.797022;1.797022;0;scansorial
+500;JR422;584;Cophixalus;verrucosus;Cophixalus verrucosus;m;20.72;10.2;11.41;6.84;10.57;7.37;7.36;5.96;4.94;6.09;0.66;1.09;0.68;0.96;2.327368;2.049792;0;scansorial
+204;JR102;218;Copiula;sp;Copiula sp;m;23.45;11.2;11.99;7.7;11.69;8.12;9.06;7.26;5.87;5.08;0.43;0.59;0.56;0.76;1.037456;1.336384;0;terrestrial
+208;JR106;277;Copiula;sp;Copiula sp;m;16.76;7.95;8.13;5.09;7.61;4.73;5.56;4.95;4.44;4.3;0.5;0.81;0.34;0.57;0.864756;0.608532;0;terrestrial
+209;JR107;215;Copiula;sp;Copiula sp;m;24.8;11.58;12.9;8.09;13.66;7.81;9.03;7.02;6.12;6.01;0.37;0.57;0.76;0.99;1.360248;2.362536;0;terrestrial
+218;JR121;229;Copiula;sp;Copiula sp;m;25.75;12.21;12.15;7.7;10.92;7.17;8.65;7.02;4.59;5.42;0.47;0.48;0.56;0.67;0.844032;1.178128;0;terrestrial
+226;JR136;225;Copiula;sp;Copiula sp;m;25.81;13.03;13.25;8.55;12.24;7.23;8.36;7.74;5.84;5.88;0.31;0.47;0.57;0.92;0.841206;1.646616;0;terrestrial
+232;JR148;283;Copiula;sp;Copiula sp;m;19.36;9.19;10.03;6.14;9.35;6.22;6.72;5.46;4.06;4.7;0.32;0.38;0.44;0.79;0.525008;1.091464;0;terrestrial
+244;JR16;309;Copiula;sp;Copiula sp;m;24.39;12.6;12.95;8.1;13.41;7.7;9.23;6.64;5.84;6;0.76;0.73;0.8;1.05;1.83376;2.6376;0;terrestrial
+320;JR25;197;Copiula;sp;Copiula sp;m;23.5;12.34;12.36;7.63;12.36;7.26;8.29;7.07;4.78;5.8;0.66;0.79;0.84;1.01;2.083704;2.663976;0;terrestrial
+367;JR3;293;Copiula;sp;Copiula sp;f;24.36;12.05;12.93;8.09;13.34;6.82;9.01;7.34;5.34;6.25;0.66;0.57;0.53;0.9;0.948594;1.49778;0;terrestrial
+421;JR35;303;Copiula;sp;Copiula sp;m;25.26;11.78;13.21;8.28;13.71;8.24;9.44;7.5;5.38;6.19;0.6;0.58;0.68;1.17;1.238416;2.498184;0;terrestrial
+464;JR39;330;Copiula;sp;Copiula sp;f;17.42;9.21;9.62;5.91;8.35;6.31;6.96;5.31;4.21;4.04;0.23;0.35;0.42;0.61;0.46158;0.804468;0;terrestrial
+512;JR51;257;Copiula;sp;Copiula sp;m;23.99;11.65;12.22;7.42;11.93;8.17;8.57;6.68;5.17;5.38;0.55;0.61;0.93;1.08;1.781322;3.153816;0;terrestrial
+529;JR68;209;Copiula;sp;Copiula sp;m;25.79;11.8;12.99;8.36;11.1;7.77;8.99;7.07;5.7;5.98;0.44;0.72;0.57;0.96;1.288656;1.718208;0;terrestrial
+532;JR70;200;Copiula;sp;Copiula sp;m;23.1;12.1;12.69;7.65;12.44;7.64;9.03;7.81;5.44;6.01;0.32;0.55;0.46;0.93;0.79442;1.343292;0;terrestrial
+540;JR78;334;Copiula;sp;Copiula sp;m;24.31;12.49;13.63;8.41;12.24;7.91;8.89;7.12;5.17;5.83;0.48;0.63;0.69;1.15;1.364958;2.49159;0;terrestrial
+549;JR89;199;Copiula;sp;Copiula sp;m;25.14;12.72;12.44;7.83;12.84;6.96;8.26;7.05;5.72;5.73;0.56;0.66;0.68;0.92;1.409232;1.964384;0;terrestrial
+553;JR92;222;Copiula;sp;Copiula sp;m;23.97;11.56;12.33;7.42;11.81;7.26;9.11;7.38;5.95;5.79;0.64;0.7;0.58;1.01;1.27484;1.839412;0;terrestrial
+554;JR93;282;Copiula;sp;Copiula sp;m;24.16;11.87;12.26;7.46;12.02;7.37;8.62;7.01;5.86;5.77;0.32;0.48;0.64;0.9;0.964608;1.80864;0;terrestrial
+558;JR97;284;Copiula;sp;Copiula sp;m;21.52;12.43;12.7;8.06;12.38;8.46;8.79;6.65;5.81;5.48;0.38;0.62;0.46;0.93;0.895528;1.343292;0;terrestrial
+559;JR98;247;Copiula;sp;Copiula sp;m;24.3;11.64;12.67;8.13;10.83;7.05;8.32;7.12;5.15;5.81;0.32;0.41;0.51;0.76;0.656574;1.217064;0;terrestrial
+145;242309;52;Genyophryne;thomsoni;Genyophryne thomsoni;m;28.46;12.32;10.82;6.81;12.97;8.93;13.3;7.32;4.95;5.81;0.68;0.74;1.1;1.13;2.55596;3.90302;0;fossorial
+146;242310;56;Genyophryne;thomsoni;Genyophryne thomsoni;m;21.26;8.68;8.34;5.66;8.86;6.47;9.71;5.28;4.15;4.84;0.66;0.36;0.81;0.78;0.915624;1.983852;0;fossorial
+147;242311;54;Genyophryne;thomsoni;Genyophryne thomsoni;f;34.26;15.08;12.75;8.58;13.37;10.38;14.98;7.72;6.17;6.96;0.73;0.91;1.22;1.31;3.486028;5.018348;0;fossorial
+148;242312;55;Genyophryne;thomsoni;Genyophryne thomsoni;m;29.73;13.17;11.11;7.63;13.02;9.28;12.69;7.55;5.94;6.75;0.59;0.49;1.23;1.05;1.892478;4.05531;0;fossorial
+149;242313;70;Genyophryne;thomsoni;Genyophryne thomsoni;m;28.99;13.52;11.11;7.55;12.71;9.53;12.94;7.82;5.44;6.38;0.78;0.8;0.86;0.96;2.16032;2.592384;0;fossorial
+150;242314;153;Genyophryne;thomsoni;Genyophryne thomsoni;m;30.67;13.46;11.18;7.7;13.5;9.2;12.76;7.65;6.97;7.5;0.61;0.74;0.96;1.18;2.230656;3.556992;0;fossorial
+263;JR182;381;Genyophryne;thomsoni;Genyophryne thomsoni;m;34.9;14.78;12.09;8.33;15.77;11.95;17.87;9.55;6.69;7.9;0.68;0.71;0.94;1.13;2.095636;3.335308;0;fossorial
+264;JR183;376;Genyophryne;thomsoni;Genyophryne thomsoni;m;36.98;13.76;12.35;8.66;14.77;10.85;17.76;8.85;6.29;7.72;0.66;0.72;1.03;1.21;2.328624;3.913382;0;fossorial
+265;JR185;372;Genyophryne;thomsoni;Genyophryne thomsoni;m;35.13;13.8;11.98;7.82;14.45;12.13;16.63;8.57;6.28;7.71;0.76;0.75;0.77;0.83;1.81335;2.006774;0;fossorial
+268;JR188;371;Genyophryne;thomsoni;Genyophryne thomsoni;m;35.04;14.46;11.55;8.15;14.3;11.28;17.06;9.05;6.47;7.22;0.73;0.74;0.83;0.99;1.928588;2.580138;0;fossorial
+273;JR195;428;Genyophryne;thomsoni;Genyophryne thomsoni;m;36.29;15.31;12.58;8.89;15.16;12.55;19.06;9.05;6.32;7.48;0.6;0.66;0.87;1;1.802988;2.7318;0;fossorial
+283;JR203;429;Genyophryne;thomsoni;Genyophryne thomsoni;m;35.94;15.11;12.39;8.05;15.99;11.19;17.77;8.89;6.24;7.86;0.45;0.56;0.86;0.97;1.512224;2.619388;0;fossorial
+297;JR224;427;Genyophryne;thomsoni;Genyophryne thomsoni;m;36.25;15.3;12.34;8.99;14.59;10.81;18.11;8.24;5.94;7.11;0.54;0.63;0.91;1.04;1.800162;2.971696;0;fossorial
+316;JR246;459;Genyophryne;thomsoni;Genyophryne thomsoni;m;34.88;13.4;12.14;8.42;14.46;11.03;17.65;8.82;6.02;7.67;0.65;0.58;0.74;0.85;1.347688;1.97506;0;fossorial
+319;JR249;460;Genyophryne;thomsoni;Genyophryne thomsoni;m;27.87;11.61;9.66;6.87;11.47;8.65;14;6.81;4.85;5.56;0.34;0.52;0.64;0.75;1.044992;1.5072;0;fossorial
+369;JR300;624;Genyophryne;thomsoni;Genyophryne thomsoni;m;29.25;13.2;10.57;6.99;12.73;8.79;13.3;7.23;4.42;6.29;0.6;0.64;0.66;0.93;1.326336;1.927332;0;fossorial
+370;JR301;625;Genyophryne;thomsoni;Genyophryne thomsoni;m;27.43;12.99;10.36;6.79;11.64;9.08;13.99;7.98;6.52;5.94;0.72;0.6;0.87;0.97;1.63908;2.649846;0;fossorial
+371;JR302;626;Genyophryne;thomsoni;Genyophryne thomsoni;m;29.17;13.03;10.81;7.43;12.58;8.94;13.58;8.01;5.57;6.3;0.69;0.7;0.8;1.01;1.7584;2.53712;0;fossorial
+372;JR303;512;Genyophryne;thomsoni;Genyophryne thomsoni;m;30.81;13.03;11.61;7.72;13.89;9.9;15.37;8.3;6.88;7.85;0.62;0.64;0.78;0.98;1.567488;2.400216;0;fossorial
+373;JR304;511;Genyophryne;thomsoni;Genyophryne thomsoni;m;25.89;12.18;10.68;7.14;12.08;8.37;13.19;7.63;6.39;6.52;0.53;0.56;0.74;0.82;1.301216;1.905352;0;fossorial
+206;JR104;256;Hylophorbus;rufescens;Hylophorbus rufescens;m;28.03;13.65;15.45;8.75;15.4;7.98;9.72;8.99;7.5;7.47;0.37;0.47;0.5;0.83;0.7379;1.3031;0;terrestrial
+207;JR105;273;Hylophorbus;rufescens;Hylophorbus rufescens;m;28.37;14.39;15.56;8.96;15.71;9.88;10.44;8.89;8.18;7.59;0.5;0.63;0.4;0.72;0.79128;0.90432;0;terrestrial
+211;JR110;274;Hylophorbus;rufescens;Hylophorbus rufescens;m;27.4;14.54;15.15;9.12;14.84;10.56;9.87;9.16;7.3;7.14;0.41;0.51;0.61;1.03;0.976854;1.972862;0;terrestrial
+238;JR153;259;Hylophorbus;rufescens;Hylophorbus rufescens;m;29.39;13.03;16.6;9.05;15.05;9.45;10.23;9.6;7.77;7.6;0.57;0.64;0.7;1.04;1.40672;2.28592;0;terrestrial
+258;JR176;375;Hylophorbus;rufescens;Hylophorbus rufescens;m;34.19;16.07;18.08;11.12;18.36;11.01;11.55;9.94;8.94;9.16;0.78;0.74;0.81;1.19;1.882116;3.026646;0;terrestrial
+260;JR178;379;Hylophorbus;rufescens;Hylophorbus rufescens;m;33.57;15.62;17.35;9.94;17.2;10.7;10.86;9.69;8.33;8.75;0.41;0.71;0.59;1.02;1.315346;1.889652;3;terrestrial
+267;JR187;384;Hylophorbus;rufescens;Hylophorbus rufescens;m;32.88;16.24;17.52;10.82;17.58;10.24;11.29;9.84;8.27;8.87;0.61;0.65;0.75;1.02;1.53075;2.4021;0;terrestrial
+271;JR192;419;Hylophorbus;rufescens;Hylophorbus rufescens;na;33.08;16.01;16.69;10.68;16.28;10.12;11.47;9.19;8.33;8.01;0.41;0.7;0.67;1.16;1.47266;2.440408;0;terrestrial
+272;JR194;397;Hylophorbus;rufescens;Hylophorbus rufescens;m;36.14;17.05;18.3;11.63;18.05;10.2;12.3;9.96;9.06;8.54;0.63;0.77;0.85;1.17;2.05513;3.12273;0;terrestrial
+274;JR196;396;Hylophorbus;rufescens;Hylophorbus rufescens;f;41.81;19.24;20.35;12.41;19.92;11.71;14.69;11.78;9.2;9.5;0.67;0.97;0.72;1.34;2.192976;3.029472;0;terrestrial
+276;JR198;418;Hylophorbus;rufescens;Hylophorbus rufescens;m;36.32;15.99;18.57;11.05;17.45;10.96;12.38;10.59;7.72;8.82;0.62;0.75;0.65;1.32;1.53075;2.69412;0;terrestrial
+280;JR200;416;Hylophorbus;rufescens;Hylophorbus rufescens;m;33.46;17.59;17.67;10.46;14.07;8.71;12.36;10.23;7.51;8.77;0.51;0.77;0.82;1.14;1.982596;2.935272;0;terrestrial
+282;JR202;417;Hylophorbus;rufescens;Hylophorbus rufescens;m;33.06;16.36;17.43;10.32;16.92;10.78;10.92;9.7;8.28;8.94;0.48;0.71;0.62;1.05;1.382228;2.04414;0;terrestrial
+284;JR204;420;Hylophorbus;rufescens;Hylophorbus rufescens;m;32.06;16.76;17.18;10.6;17.29;8.96;11.2;9.83;8.41;9.01;0.47;0.71;0.82;0.94;1.828108;2.420312;0;terrestrial
+286;JR206;394;Hylophorbus;rufescens;Hylophorbus rufescens;f;43.92;20.59;22.65;13.86;22;13.83;14.54;12.81;12.24;11.32;0.58;0.94;0.76;1.38;2.243216;3.293232;0;terrestrial
+288;JR208;398;Hylophorbus;rufescens;Hylophorbus rufescens;m;34.6;17.86;18.97;11.5;19.54;9.74;12.51;10.62;8.42;9.81;0.33;0.84;0.53;1;1.397928;1.6642;0;terrestrial
+290;JR210;393;Hylophorbus;rufescens;Hylophorbus rufescens;m;36.19;17.5;18.59;11.64;18.65;11.54;12.76;10.33;8.28;9.45;0.51;0.8;0.53;1;1.33136;1.6642;0;terrestrial
+294;JR221;399;Hylophorbus;rufescens;Hylophorbus rufescens;m;34.8;17.09;18.56;11.26;19;10.54;11.34;10.18;8.59;9.75;0.43;0.78;0.61;1.05;1.494012;2.01117;0;terrestrial
+295;JR222;392;Hylophorbus;rufescens;Hylophorbus rufescens;f;36.83;18.41;19.71;12.17;20.05;11.34;12.43;11.78;10.26;9.67;0.63;0.83;0.54;1.18;1.407348;2.000808;0;terrestrial
+310;JR238;437;Hylophorbus;rufescens;Hylophorbus rufescens;na;32.63;15.97;16.93;10.67;15.07;8.8;10.44;10.21;8.77;8.09;0.68;0.54;0.59;0.77;1.000404;1.426502;0;terrestrial
+313;JR243;436;Hylophorbus;rufescens;Hylophorbus rufescens;m;41.49;19.8;20.47;12.58;19.17;11.43;13.29;11.21;10.13;9.81;0.67;0.76;0.56;0.84;1.336384;1.477056;0;terrestrial
+323;JR252;438;Hylophorbus;rufescens;Hylophorbus rufescens;m;32.64;16.22;17.82;11.12;16.23;10.37;11.22;10;8.22;8.98;0.45;0.62;0.72;1.01;1.401696;2.283408;0;terrestrial
+350;JR284;483;Hylophorbus;rufescens;Hylophorbus rufescens;m;34.63;16.73;18.24;11.32;17.24;10.74;10.67;11.5;8.84;8.46;0.52;0.74;0.75;1.01;1.7427;2.37855;0;terrestrial
+379;JR31;319;Hylophorbus;rufescens;Hylophorbus rufescens;m;27.4;11.18;14.7;9.33;14.72;7.65;9.53;8.53;5.96;7.29;0.49;0.65;0.62;1.1;1.26542;2.14148;0;terrestrial
+390;JR32;323;Hylophorbus;rufescens;Hylophorbus rufescens;m;27.06;12.97;15.87;9.33;12.4;8.47;9.86;8.8;7.22;7.74;0.5;0.71;0.59;0.9;1.315346;1.66734;0;terrestrial
+412;JR34;332;Hylophorbus;rufescens;Hylophorbus rufescens;m;28.31;12.79;15.97;9.51;15.71;9.17;10.53;8.85;6.87;7.57;0.93;0.85;0.76;1.22;2.02844;2.911408;0;terrestrial
+453;JR38;337;Hylophorbus;rufescens;Hylophorbus rufescens;na;27.01;13.58;14.96;8.85;14.4;8.61;9.6;8.28;5.52;6.06;0.65;0.63;0.9;1.08;1.78038;3.05208;0;terrestrial
+487;JR41;346;Hylophorbus;rufescens;Hylophorbus rufescens;m;27.56;14.24;14.96;8.4;12.29;9.28;10.14;8.26;7.02;6.88;0.71;0.87;0.63;1.23;1.721034;2.433186;0;terrestrial
+504;JR43;298;Hylophorbus;rufescens;Hylophorbus rufescens;m;29.22;13.49;15.92;9.44;15.61;9.29;9.17;8.96;6.4;7.58;0.81;0.71;1.01;1.34;2.251694;4.249676;0;terrestrial
+506;JR45;336;Hylophorbus;rufescens;Hylophorbus rufescens;m;30.46;13.38;16.74;9.15;16.34;9.11;10.62;8.87;7.02;7.98;1.06;0.84;0.84;1.09;2.215584;2.874984;0;terrestrial
+518;JR57;287;Hylophorbus;rufescens;Hylophorbus rufescens;m;25.34;13.57;14.33;8.68;13.38;8.15;9.33;7.92;6.31;7.33;0.6;0.59;0.46;0.99;0.852196;1.429956;0;terrestrial
+519;JR58;228;Hylophorbus;rufescens;Hylophorbus rufescens;na;28.64;14.14;15.5;8.8;13.52;8.56;9.56;8.64;6.62;7.74;0.58;0.64;1.03;1.26;2.069888;4.075092;0;terrestrial
+520;JR59;278;Hylophorbus;rufescens;Hylophorbus rufescens;m;31.69;14.25;16.42;9.76;16.54;9.6;10.46;9.71;7.58;7.99;0.61;1.04;0.84;0.89;2.743104;2.347464;0;terrestrial
+521;JR6;294;Hylophorbus;rufescens;Hylophorbus rufescens;f;27.6;14.68;15.43;9.27;14.83;8.75;9.87;8.53;6.88;7.31;0.66;0.81;1.03;1.09;2.619702;3.525278;0;terrestrial
+523;JR61;261;Hylophorbus;rufescens;Hylophorbus rufescens;f;30.32;14.52;15.41;8.99;15.28;8.39;10.29;8.35;6.83;7.72;0.51;0.65;0.72;1.24;1.46952;2.803392;0;terrestrial
+551;JR90;246;Hylophorbus;rufescens;Hylophorbus rufescens;m;28.3;14.43;15.36;9.33;15.47;9.78;10.37;9.14;8.61;7.03;0.42;0.54;0.63;1.15;1.068228;2.27493;0;terrestrial
+552;JR91;258;Hylophorbus;rufescens;Hylophorbus rufescens;m;25.05;14.12;15.77;9.25;12.91;9.46;8.74;8.71;7.93;7.89;0.21;0.39;0.3;0.54;0.36738;0.50868;0;terrestrial
+556;JR95;271;Hylophorbus;rufescens;Hylophorbus rufescens;m;29.16;14.18;15.84;9.34;14.44;9.11;10.28;9.38;7.12;7.82;0.5;0.7;0.46;0.66;1.01108;0.953304;0;terrestrial
+55;16698;32;Hylophorbus;sp;Hylophorbus sp;m;31.86;16.65;18.01;10.71;17.19;9.17;11.35;9.6;7.28;8.97;0.88;0.88;1.1;1.39;3.03952;4.80106;0;terrestrial
+60;17781;74;Hylophorbus;sp;Hylophorbus sp;m;25.78;14.17;15.2;9.24;15.27;7.6;10.02;7.77;7.88;7.01;0.65;0.75;0.89;1.11;2.09595;3.102006;0;terrestrial
+61;17782;120;Hylophorbus;sp;Hylophorbus sp;f;32.26;17.14;17.42;11.14;16.95;8.69;11.17;8.26;8.94;9.05;0.9;0.9;1.38;1.36;3.89988;5.893152;0;terrestrial
+62;17783;121;Hylophorbus;sp;Hylophorbus sp;m;33.02;16.68;17.94;10.57;17.46;9.41;10.78;9.3;7.97;9.18;0.8;0.85;1.03;1.27;2.74907;4.107434;0;terrestrial
+63;17784;125;Hylophorbus;sp;Hylophorbus sp;f;35.78;18.22;19.29;11.43;18.12;10.02;11.06;9.52;8.87;9.33;0.77;0.76;0.99;1.14;2.362536;3.543804;0;terrestrial
+151;242315;15;Hylophorbus;sp;Hylophorbus sp;f;32.41;16.8;17.97;10.69;17.42;9.46;10.68;9.69;7.71;8.68;0.95;0.91;1.01;1.38;2.885974;4.376532;0;terrestrial
+152;242316;39;Hylophorbus;sp;Hylophorbus sp;m;33.29;16.96;17.92;11.05;17.91;9.3;11.26;9.67;9.07;8.94;0.96;0.96;1.27;1.2;3.828288;4.78536;0;terrestrial
+153;242317;4;Hylophorbus;sp;Hylophorbus sp;m;32.23;16.57;18.32;10.55;17.52;9.38;11.35;8.99;7.98;9.16;0.87;0.73;0.95;1.08;2.17759;3.22164;0;terrestrial
+154;242318;8;Hylophorbus;sp;Hylophorbus sp;m;32.72;16.39;18.76;10.65;19.31;9.26;10.42;9.17;8.07;9.37;0.78;0.95;1.11;1.44;3.31113;5.018976;0;terrestrial
+155;242319;2;Hylophorbus;sp;Hylophorbus sp;m;31.91;16.48;18.11;10.49;17.46;9.28;10.62;9.55;9.78;9.04;0.66;0.91;1.1;1.2;3.14314;4.1448;0;terrestrial
+156;242320;10;Hylophorbus;sp;Hylophorbus sp;m;33.96;17.79;18.77;11.52;19.12;9.58;10.64;8.41;7.74;9.09;0.95;0.94;1.31;1.53;3.866596;6.293502;0;terrestrial
+157;242321;25;Hylophorbus;sp;Hylophorbus sp;m;34.94;17.31;18.49;10.92;19.02;10.08;11.62;9.65;8.02;9.31;0.96;0.96;1.27;1.64;3.828288;6.539992;0;terrestrial
+158;242322;23;Hylophorbus;sp;Hylophorbus sp;m;33.65;16.73;17.65;10.31;18.07;8.67;11.02;10.53;7.76;9.32;0.76;0.79;1;1.44;2.4806;4.5216;0;terrestrial
+159;242323;24;Hylophorbus;sp;Hylophorbus sp;f;41.49;19.53;21.49;13.25;20.88;10.14;12.19;12.38;9.27;10.76;0.87;0.98;1.07;1.49;3.292604;5.006102;0;terrestrial
+160;242324;28;Hylophorbus;sp;Hylophorbus sp;f;37.2;17.84;18.88;11.11;19.79;10.01;11.37;10.73;8.23;9.97;0.89;1.18;1.09;1.53;4.038668;5.236578;0;terrestrial
+161;242325;30;Hylophorbus;sp;Hylophorbus sp;m;36.18;17.61;17.83;11.03;17.15;9.68;11.02;10.36;7.88;8.99;0.82;1.01;1.21;1.61;3.837394;6.117034;0;terrestrial
+162;242326;31;Hylophorbus;sp;Hylophorbus sp;m;35.26;16.55;17.85;11;18.43;9.33;11.29;10.4;7.12;9.01;0.8;0.87;1.15;1.32;3.14157;4.76652;0;terrestrial
+163;242327;40;Hylophorbus;sp;Hylophorbus sp;m;34.36;17.36;18.43;11.36;18.67;9.06;11.79;10.63;8.42;9.5;0.74;0.84;0.96;1.43;2.532096;4.310592;0;terrestrial
+164;242328;48;Hylophorbus;sp;Hylophorbus sp;m;32.46;16.02;16.93;9.93;16.35;9.17;11.17;9.03;7.28;8.5;0.78;0.93;1.17;1.34;3.416634;4.922892;0;terrestrial
+165;242329;62;Hylophorbus;sp;Hylophorbus sp;m;25.64;13.03;14.44;8.55;13.73;7.49;8.3;7.91;5.88;7.08;0.47;0.55;0.57;1.01;0.98439;1.807698;0;terrestrial
+360;JR293;558;Hylophorbus;sp;Hylophorbus sp;m;33.4;18.17;18.65;11.28;18.37;10.05;11.14;10.75;7.71;9.87;0.55;0.71;0.71;0.99;1.582874;2.207106;0;terrestrial
+374;JR305;556;Hylophorbus;sp;Hylophorbus sp;m;31.86;14.13;17.81;10.05;16.81;8.93;10.88;9.85;8.89;8.79;0.59;0.63;0.78;1.11;1.542996;2.718612;0;terrestrial
+375;JR306;557;Hylophorbus;sp;Hylophorbus sp;f;39.14;18.86;20.77;11.94;19.96;12.65;13.67;11.87;9.47;10.82;0.72;1;0.95;1.59;2.983;4.74297;0;terrestrial
+376;JR307;514;Hylophorbus;sp;Hylophorbus sp;na;33.41;16.05;18.58;11.36;18.14;10.53;11.64;10.78;8.55;9.36;0.59;0.72;0.94;1.21;2.125152;3.571436;0;terrestrial
+377;JR308;515;Hylophorbus;sp;Hylophorbus sp;na;36.26;17.96;18.8;11.67;18.76;10.33;12.23;10.68;9.07;9.02;0.64;0.82;0.93;1.31;2.394564;3.825462;0;terrestrial
+378;JR309;503;Hylophorbus;sp;Hylophorbus sp;f;31.83;15.24;16.9;10.75;16.85;10.52;11.41;9.52;8.08;8.47;0.66;0.71;0.73;1.06;1.627462;2.429732;0;terrestrial
+380;JR310;513;Hylophorbus;sp;Hylophorbus sp;m;31.73;16.66;17.89;10.19;17.85;9.39;11.4;10.38;7.67;9.17;0.71;0.77;0.78;1.12;1.885884;2.743104;0;terrestrial
+381;JR311;502;Hylophorbus;sp;Hylophorbus sp;m;36.55;19.57;20.14;11.55;19.63;10.81;12.82;11.38;9.48;10.32;0.74;0.75;0.84;1.19;1.9782;3.138744;0;terrestrial
+382;JR312;501;Hylophorbus;sp;Hylophorbus sp;m;35.97;17.06;18.58;11.45;18.78;10.99;11.89;10.51;9.83;8.82;0.56;0.68;1.06;1.36;2.263312;4.526624;0;terrestrial
+383;JR313;500;Hylophorbus;sp;Hylophorbus sp;m;35.43;17.65;20.05;11.98;19.77;11.2;12.14;11.1;8.08;10.2;0.79;0.83;1.13;1.29;2.945006;4.577178;0;terrestrial
+384;JR314;560;Hylophorbus;sp;Hylophorbus sp;m;35.91;17.97;18.94;12.13;18.4;10.42;11.68;11.07;9.82;9.91;0.66;0.81;0.96;1.24;2.441664;3.737856;0;terrestrial
+385;JR315;559;Hylophorbus;sp;Hylophorbus sp;na;40.54;19.13;21.61;12.29;20.19;11.66;13.16;12.77;10.82;9.5;0.56;0.76;0.93;1.28;2.219352;3.737856;0;terrestrial
+386;JR316;628;Hylophorbus;sp;Hylophorbus sp;m;33.84;16.89;18.89;11.52;17.87;10.66;11.75;10.88;9.31;9.25;0.68;0.79;0.93;1.1;2.306958;3.21222;0;terrestrial
+387;JR317;602;Hylophorbus;sp;Hylophorbus sp;m;37.3;18.71;19.5;11.91;19.28;11.82;13.06;11.3;8.36;9.72;0.58;0.79;1.02;1.25;2.530212;4.0035;0;terrestrial
+388;JR318;601;Hylophorbus;sp;Hylophorbus sp;na;34.78;18.05;18.99;11.36;19.46;10.76;12.14;10.98;8.87;9.48;0.4;0.54;0.89;1.16;1.509084;3.241736;0;terrestrial
+389;JR319;629;Hylophorbus;sp;Hylophorbus sp;m;39.65;18.2;20.66;11.61;20.8;13.3;12.94;10.47;8.72;10.57;0.66;0.92;0.76;1.41;2.195488;3.364824;0;terrestrial
+391;JR320;600;Hylophorbus;sp;Hylophorbus sp;na;35.57;18.3;19.1;11.68;18.83;10.89;12.03;11.44;9.45;9.15;0.76;0.79;0.84;1.35;2.083704;3.56076;0;terrestrial
+392;JR321;599;Hylophorbus;sp;Hylophorbus sp;na;43.52;22.28;23.77;13.58;22.91;12.87;15.34;13.69;11.74;11.14;0.86;1.1;1.14;1.56;3.93756;5.584176;0;terrestrial
+393;JR322;598;Hylophorbus;sp;Hylophorbus sp;na;35.15;16.41;18.85;11.79;19.37;10.45;11.92;11.04;8.89;9.01;0.48;0.75;0.94;1.12;2.2137;3.305792;0;terrestrial
+394;JR323;597;Hylophorbus;sp;Hylophorbus sp;na;35.41;17.94;20.06;11.89;20.14;11.75;11.97;11.57;9.72;9.87;0.64;0.8;0.86;1.13;2.16032;3.051452;0;terrestrial
+395;JR324;595;Hylophorbus;sp;Hylophorbus sp;f;37.89;19.98;20.91;12.47;21.82;11.3;13.39;11.3;10.9;10.75;0.55;0.74;0.92;1.26;2.137712;3.639888;0;terrestrial
+396;JR325;604;Hylophorbus;sp;Hylophorbus sp;m;36.45;17.85;18.17;11.29;18.47;11.73;12.66;10.18;8.86;9.97;0.59;0.8;0.95;1.33;2.3864;3.96739;0;terrestrial
+397;JR326;603;Hylophorbus;sp;Hylophorbus sp;m;37.01;17.58;18.6;11;17.56;12.17;12.87;10.48;9.46;9.18;0.73;0.87;0.89;1.18;2.431302;3.297628;0;terrestrial
+64;17785;109;Liophryne;dentata;Liophryne dentata;m;25.37;13.76;14.28;9.22;13.71;8.09;10.72;7.42;6.61;5.86;0.95;0.83;1.24;1.21;3.231688;4.711256;0;terrestrial
+65;17786;116;Liophryne;dentata;Liophryne dentata;m;26.78;13.64;14.86;9.56;14.33;8.07;11.21;7.74;6.18;6.23;0.67;0.69;0.96;1.16;2.079936;3.496704;0;terrestrial
+66;17787;126;Liophryne;dentata;Liophryne dentata;m;28.23;14.23;15.67;9.64;15.85;9.18;11.59;8.28;7.67;7.02;0.79;0.84;0.96;1.31;2.532096;3.948864;0;terrestrial
+67;17788;147;Liophryne;dentata;Liophryne dentata;m;30.13;14.14;16.65;10.12;15;9.19;12.14;8.9;7.42;6.8;0.66;0.73;1.17;1.26;2.681874;4.628988;0;terrestrial
+166;242338;3;Liophryne;dentata;Liophryne dentata;m;27.67;14.09;14.41;9.17;14.01;9.24;11.61;7.79;7.09;6.14;0.57;0.82;1.05;1.17;2.70354;3.85749;0;terrestrial
+167;242339;11;Liophryne;dentata;Liophryne dentata;f;32.92;16.4;17.89;11.55;16.69;9.56;12.98;9.15;7.53;7.35;0.82;0.88;1.2;1.4;3.31584;5.2752;0;terrestrial
+168;242340;14;Liophryne;dentata;Liophryne dentata;m;29.77;15.8;16.47;10.31;15.93;9.53;12.96;8.4;6.68;6.43;0.84;0.81;1.26;1.21;3.204684;4.787244;0;terrestrial
+169;242341;16;Liophryne;dentata;Liophryne dentata;m;25.91;14.53;15.38;9.82;14.72;8.82;10.71;7.79;6.49;6.28;0.68;0.72;1.13;1.24;2.554704;4.399768;0;terrestrial
+170;242342;60;Liophryne;dentata;Liophryne dentata;m;27.65;14.95;15.26;9.99;15.36;8.85;11.33;7.58;7.57;6.54;0.94;0.76;1.02;1.25;2.434128;4.0035;0;terrestrial
+171;242343;45;Liophryne;dentata;Liophryne dentata;m;27.43;14.38;14.59;9.25;13.86;8.51;10.9;7.68;5.63;6.04;0.87;0.8;1.01;1.16;2.53712;3.678824;0;terrestrial
+172;242344;63;Liophryne;dentata;Liophryne dentata;m;27.46;15.33;15.18;9.86;14.79;8.76;12.05;8.69;7.77;6.49;0.84;0.88;1.18;1.26;3.260576;4.668552;0;terrestrial
+173;242345;115;Liophryne;dentata;Liophryne dentata;m;29.37;15.48;15.17;10.5;14.28;9.31;11.28;7.82;7.08;6.43;0.79;0.81;1.28;1.33;3.255552;5.345536;0;terrestrial
+174;242346;567;Liophryne;dentata;Liophryne dentata;f;20.74;11.88;12.39;7.69;11.45;7.06;9.55;6.35;4.87;5.23;0.43;0.52;0.86;0.87;1.404208;2.349348;0;terrestrial
+175;242347;67;Liophryne;dentata;Liophryne dentata;m;31.02;17.07;17.54;10.81;17.01;10.88;13.16;9.06;6.89;7.59;0.73;0.92;1.28;1.48;3.697664;5.948416;0;terrestrial
+176;242348;77;Liophryne;dentata;Liophryne dentata;m;26.42;14.08;14.94;9.19;14.4;8.73;11.35;7.79;6.52;6.07;0.65;0.68;1.14;1.18;2.434128;4.223928;0;terrestrial
+177;242349;78;Liophryne;dentata;Liophryne dentata;m;26.68;13.83;14.31;8.93;13.68;8.56;11.85;7.41;5.63;5.91;0.59;0.66;0.98;1.19;2.030952;3.661868;0;terrestrial
+178;242350;92;Liophryne;dentata;Liophryne dentata;f;24.39;13.24;14.47;9.08;13.49;8.9;11.63;7.54;5.68;6.08;0.67;0.66;0.87;1.09;1.802988;2.977662;0;terrestrial
+179;242351;100;Liophryne;dentata;Liophryne dentata;m;26.67;14.17;14.8;9.27;14.41;8.67;11.72;7.42;6.49;6.18;0.58;0.69;1;1.01;2.1666;3.1714;0;terrestrial
+417;JR345;567;Liophryne;dentata;Liophryne dentata;m;26.62;14.29;15.6;9.36;14.84;9.15;11.37;8.38;5.94;6.68;0.43;0.58;0.63;0.99;1.147356;1.958418;0;terrestrial
+418;JR346;590;Liophryne;dentata;Liophryne dentata;m;27.18;15.55;15.37;9.44;15.45;9.58;11.75;8.1;7.4;6.56;0.44;0.55;0.66;0.97;1.13982;2.010228;0;terrestrial
+419;JR347;592;Liophryne;dentata;Liophryne dentata;m;24.99;17.07;14.33;8.67;13.8;9.06;10.76;7.75;5.27;5.86;0.46;0.59;0.58;0.89;1.074508;1.620868;0;terrestrial
+420;JR349;593;Liophryne;dentata;Liophryne dentata;m;29.72;15.97;16.71;9.82;16.45;10.21;12.3;8.31;7.33;6.2;0.62;0.58;0.61;1.17;1.110932;2.241018;0;terrestrial
+422;JR350;591;Liophryne;dentata;Liophryne dentata;m;25.65;14.34;14.81;9.32;14.63;8.61;10.96;7.62;6.14;6.26;0.4;0.62;0.86;1.01;1.674248;2.727404;0;terrestrial
+68;17789;623;Mantophryne;lateralis;Mantophryne lateralis;m;41.27;19.15;19.74;12.56;19.75;12.06;14.44;11.43;8.66;10.63;1.05;1.11;1.2;1.41;4.18248;5.31288;0;terrestrial
+69;17790;152;Mantophryne;lateralis;Mantophryne lateralis;m;42.34;19.94;20.71;12.89;20.72;12.58;15.43;11.96;9.56;10.36;1.14;0.5;1.49;1.54;2.3393;7.205044;0;terrestrial
+70;17791;155;Mantophryne;lateralis;Mantophryne lateralis;f;45.93;22.09;22.19;14.55;21.93;14.54;16.77;12.98;9.77;10.65;1.05;1.17;1.51;1.7;5.547438;8.06038;0;terrestrial
+180;242358;9;Mantophryne;lateralis;Mantophryne lateralis;m;41.66;21.04;21.05;13.39;20.48;12.1;15.06;11.57;10.56;9.56;0.95;1.1;1.52;1.45;5.25008;6.92056;0;terrestrial
+181;242359;73;Mantophryne;lateralis;Mantophryne lateralis;m;26.6;12.75;14.58;8.57;13.85;7.88;9.77;7.67;6.12;6.68;1.08;0.89;0.95;0.99;2.65487;2.95317;0;terrestrial
+182;242360;12;Mantophryne;lateralis;Mantophryne lateralis;m;49.59;24.02;25.02;15.83;25.9;13.5;18.27;14.48;11.88;13.21;1.27;1.29;1.9;1.94;7.69614;11.57404;0;terrestrial
+183;242361;29;Mantophryne;lateralis;Mantophryne lateralis;m;41.91;20.8;20.58;13.12;20.81;12.48;14.87;12.06;11.17;10.35;1.16;1.12;1.4;1.57;4.92352;6.90172;0;terrestrial
+184;242362;58;Mantophryne;lateralis;Mantophryne lateralis;m;43.75;20.87;20.45;13.58;20.63;13.51;15.93;12.59;9.3;11.53;1.32;1.27;1.5;1.84;5.9817;8.6664;0;terrestrial
+185;242363;47;Mantophryne;lateralis;Mantophryne lateralis;m;46.09;22;22.03;13.27;23.1;13.33;17.43;12.66;10.1;11.61;0.92;1.18;1.51;1.75;5.594852;8.29745;0;terrestrial
+186;242364;57;Mantophryne;lateralis;Mantophryne lateralis;m;44.51;22.01;22.34;13.39;22.91;13.81;16.82;13.01;10.29;11.42;0.88;1.04;1.32;1.6;4.310592;6.63168;0;terrestrial
+187;242365;119;Mantophryne;lateralis;Mantophryne lateralis;m;44.35;21.09;21.79;12.79;22.32;13.83;16.37;12.17;9.67;11.94;1.11;1.15;1.33;1.75;4.80263;7.30835;0;terrestrial
+188;242366;122;Mantophryne;lateralis;Mantophryne lateralis;m;43.22;21.06;22.16;13;22.12;12.35;15.95;12.3;10.45;11.55;1.13;1.17;1.45;1.61;5.32701;7.33033;0;terrestrial
+257;JR175;383;Mantophryne;lateralis;Mantophryne lateralis;m;38.01;17.1;17.07;10.31;16.87;11.69;12.85;10.85;8.76;8.48;0.85;0.83;1.03;1.04;2.684386;3.363568;0;terrestrial
+275;JR197;425;Mantophryne;lateralis;Mantophryne lateralis;m;41.13;19.15;18.5;11;19.3;12.6;14.64;11.39;9.47;9.28;0.69;0.83;0.78;1.18;2.032836;2.890056;0;terrestrial
+281;JR201;423;Mantophryne;lateralis;Mantophryne lateralis;m;38.65;17.7;17.54;11.68;17.15;12.1;13;10.97;9.31;8.7;0.69;0.76;0.94;1.2;2.243216;3.54192;0;terrestrial
+285;JR205;422;Mantophryne;lateralis;Mantophryne lateralis;m;35.88;17.13;16.5;10.46;16.48;11.63;12.98;9.73;8.58;8.48;0.51;0.7;0.69;1.01;1.51662;2.188266;0;terrestrial
+287;JR207;426;Mantophryne;lateralis;Mantophryne lateralis;m;39.8;18.45;18.23;11.29;17.84;12.21;13.49;11.53;8.75;9.06;0.47;0.64;0.65;1.09;1.30624;2.22469;0;terrestrial
+291;JR212;421;Mantophryne;lateralis;Mantophryne lateralis;m;35.07;14.98;15.69;10.58;15.16;11.6;12.54;10.18;8.34;8.29;0.6;0.7;0.72;0.99;1.58256;2.238192;0;terrestrial
+298;JR225;424;Mantophryne;lateralis;Mantophryne lateralis;m;37.31;17.01;17.59;10.84;17.29;10.97;12.61;10.62;7.38;9.28;0.71;0.8;0.9;1.05;2.2608;2.9673;0;terrestrial
+303;JR23;191;Mantophryne;lateralis;Mantophryne lateralis;m;38.28;17.41;17.95;10.79;18.18;11.95;14.09;10.84;8.6;9.72;0.94;0.9;1.2;1.35;3.3912;5.0868;0;terrestrial
+345;JR28;194;Mantophryne;lateralis;Mantophryne lateralis;na;39.59;18.44;17.83;10.65;19.01;13.07;15.17;11.35;8.66;10.72;0.69;0.8;0.84;0.79;2.11008;2.083704;0;terrestrial
+349;JR283;480;Mantophryne;lateralis;Mantophryne lateralis;m;40;16.52;19.95;12.42;19.81;13.05;14.51;12.36;11.4;10.85;0.62;0.68;0.91;1.19;1.943032;3.400306;0;terrestrial
+352;JR286;478;Mantophryne;lateralis;Mantophryne lateralis;m;41.76;17.99;18.44;11.63;18.65;13.24;15.44;12.21;9.56;9.99;0.6;0.84;0.72;0.97;1.899072;2.192976;0;terrestrial
+354;JR288;479;Mantophryne;lateralis;Mantophryne lateralis;m;36.13;16.55;17.24;10.83;16.32;10.38;13.22;10.46;8.8;8.77;0.54;0.68;0.85;1.2;1.81492;3.2028;0;terrestrial
+401;JR33;315;Mantophryne;lateralis;Mantophryne lateralis;m;39.79;17.77;19.13;11.98;18.84;12.63;15.89;11.65;8.26;10.29;0.93;1.02;1.34;1.61;4.291752;6.774236;0;terrestrial
+426;JR354;518;Mantophryne;lateralis;Mantophryne lateralis;na;41.01;19.78;21.38;13.05;20.02;12.86;15.25;12.29;9.47;11.06;0.47;0.75;0.81;1.26;1.90755;3.204684;0;terrestrial
+427;JR355;497;Mantophryne;lateralis;Mantophryne lateralis;f;43.27;20.28;21.46;13.8;22.04;13.55;16.34;12.05;9.34;10.97;0.83;0.94;0.99;1.39;2.922084;4.320954;0;terrestrial
+428;JR356;499;Mantophryne;lateralis;Mantophryne lateralis;na;40.99;20.53;20.46;12.53;21.08;12.74;16.09;11.92;8.7;11.36;0.61;0.95;0.64;1.41;1.90912;2.833536;0;terrestrial
+429;JR357;498;Mantophryne;lateralis;Mantophryne lateralis;m;41.3;18.98;21.17;12.7;21.54;13.51;15.77;12.08;9.25;10.71;0.82;1.07;0.98;1.55;3.292604;4.76966;0;terrestrial
+432;JR36;331;Mantophryne;lateralis;Mantophryne lateralis;m;36.55;17.96;18.57;11.3;17.22;11.96;14.33;11.05;8.7;9.34;0.6;0.84;0.36;1.01;0.949536;1.141704;0;terrestrial
+442;JR369;578;Mantophryne;lateralis;Mantophryne lateralis;f;37.35;18.15;19.38;12.33;19.9;12.78;13.76;11.86;8.87;10.12;0.74;0.86;0.91;1.17;2.457364;3.343158;0;terrestrial
+449;JR376;576;Mantophryne;lateralis;Mantophryne lateralis;m;42.05;18.87;20.63;12.19;20.95;13.52;15.89;11.59;8.83;10.45;0.82;0.92;1.04;1.21;3.004352;3.951376;0;terrestrial
+450;JR377;577;Mantophryne;lateralis;Mantophryne lateralis;m;42.31;19.49;20.95;13.79;21.93;12.73;15.71;12.28;9.89;11.49;0.82;0.93;1.12;1.47;3.270624;5.169696;0;terrestrial
+451;JR378;579;Mantophryne;lateralis;Mantophryne lateralis;m;39.96;19.82;19.63;12.88;20.25;12.77;14;11.4;9.27;9.97;0.74;0.94;0.97;1.34;2.863052;4.081372;0;terrestrial
+465;JR390;517;Mantophryne;lateralis;Mantophryne lateralis;f;44.66;18.91;21.29;13.02;21.64;13.29;14.78;12.31;9.61;10.87;0.92;0.98;1.13;1.3;3.477236;4.61266;0;terrestrial
+494;JR417;580;Mantophryne;lateralis;Mantophryne lateralis;m;40.74;16.72;19.35;12.36;19.55;12.1;13.53;11.59;9.08;10.17;0.66;0.89;0.88;1.19;2.459248;3.288208;0;terrestrial
+496;JR419;581;Mantophryne;lateralis;Mantophryne lateralis;f;39.48;19.14;19.74;12.08;20.15;13.16;13.63;11.44;10.21;10.29;0.73;0.97;1.06;1.47;3.228548;4.892748;0;terrestrial
+499;JR421;561;Mantophryne;lateralis;Mantophryne lateralis;m;36.77;18.09;18.61;11.38;18.36;10.11;12.23;10.97;9.56;9.61;0.65;0.72;0.84;1.21;1.899072;3.191496;0;terrestrial
+505;JR44;335;Mantophryne;lateralis;Mantophryne lateralis;f;38.29;15.04;18.25;11.74;17.11;12.06;15.03;11.55;10.67;10.18;0.95;0.96;1.61;1.55;4.853184;7.83587;0;terrestrial
+269;JR189;385;Oreophryne;geislerorum;Oreophryne geislerorum;m;23.28;10.04;10.08;6.38;10.09;6.93;8.72;6.43;5.1;6.1;1.28;1.35;1.28;1.66;5.42592;6.671872;1;arboreal
+314;JR244;456;Oreophryne;geislerorum;Oreophryne geislerorum;m;25.06;10.33;10.56;6.93;10.23;6.53;8.28;6.24;5.18;6.14;0.8;1.16;0.86;1.25;3.132464;3.3755;0;arboreal
+355;JR289;484;Oreophryne;geislerorum;Oreophryne geislerorum;m;23.51;10.26;10.09;6.44;9.34;7.18;8.22;6.37;5.74;5.05;1;1.44;0.96;1.34;4.340736;4.039296;0;arboreal
+71;17792;133;Oreophryne;loriae;Oreophryne loriae;m;23.82;10.15;10.25;6.66;10.03;6.18;8.19;5.37;5.21;6.32;1.29;1.68;1.33;1.67;7.016016;6.974254;0;arboreal
+72;17793;136;Oreophryne;loriae;Oreophryne loriae;m;25.7;10.28;10.44;7.36;10.43;6.69;8.61;6.22;5.33;5.88;1.22;1.59;1.3;1.59;6.49038;6.49038;0;arboreal
+73;17794;137;Oreophryne;loriae;Oreophryne loriae;m;24.45;10.42;10.72;6.81;8.56;6.92;8.77;6.97;5.47;6.27;1.46;1.75;1.1;1.33;6.0445;4.59382;0;arboreal
+74;17795;138;Oreophryne;loriae;Oreophryne loriae;m;24.57;10.33;10.83;6.84;8.95;6.05;8.38;6.31;5.5;6.29;1.4;1.57;1.52;1.65;7.493296;7.87512;0;arboreal
+189;242402;1;Oreophryne;loriae;Oreophryne loriae;m;25.83;10.44;11.15;7.16;10;6.24;8.52;6.61;6.03;6.72;1.16;1.39;1.16;1.45;5.062936;5.28148;0;arboreal
+190;242403;50;Oreophryne;loriae;Oreophryne loriae;m;24.23;10.66;10.3;6.68;9.14;6.05;9.69;6.24;5.42;5.69;1.32;1.54;1.29;1.45;6.237924;5.87337;0;arboreal
+191;242404;71;Oreophryne;loriae;Oreophryne loriae;m;26.31;11.1;11.23;7.25;10.75;6.27;8.76;6.63;5.47;6.93;1.67;1.74;1.46;1.74;7.976856;7.976856;0;arboreal
+192;242405;72;Oreophryne;loriae;Oreophryne loriae;m;24.47;10.61;10.72;6.91;10;6.65;8.3;6.05;5.5;6.44;1.26;1.61;1.5;1.54;7.5831;7.2534;0;arboreal
+193;242406;75;Oreophryne;loriae;Oreophryne loriae;m;24.56;10.95;11.28;6.78;11.17;6.66;8;6.28;5.62;6.5;1.1;1.46;1.33;1.41;6.097252;5.888442;0;arboreal
+194;242407;127;Oreophryne;loriae;Oreophryne loriae;m;25.56;9.12;9.12;6.63;10.17;5.89;7.15;6.21;5.51;6.36;1.24;1.46;1.24;1.42;5.684656;5.528912;0;arboreal
+195;242408;194;Oreophryne;loriae;Oreophryne loriae;m;24.45;10.28;10.52;6.73;11.03;6.44;8.15;6.28;4.37;6.31;1.59;1.69;1.49;1.72;7.906834;8.047192;0;arboreal
+196;242409;195;Oreophryne;loriae;Oreophryne loriae;m;22.92;10.4;10.46;6.71;10.77;6.12;8.05;6;5.2;6.46;1.19;1.3;1.43;1.52;5.83726;6.825104;0;arboreal
+197;242410;196;Oreophryne;loriae;Oreophryne loriae;m;24.84;10.64;10.56;6.37;10.43;6.58;8.57;6.18;5.69;6.47;1.39;1.6;1.54;1.57;7.73696;7.591892;0;arboreal
+198;242411;197;Oreophryne;loriae;Oreophryne loriae;m;24.68;10.48;11.04;6.68;11;6.3;8.78;6.5;4.64;6.32;1.33;1.73;1.61;1.57;8.745842;7.936978;0;arboreal
+199;242412;198;Oreophryne;loriae;Oreophryne loriae;m;24.37;10.72;10.48;6.97;10.38;6.27;8.59;6.25;4.9;6.89;1.41;1.56;1.39;1.6;6.808776;6.98336;0;arboreal
+200;242413;199;Oreophryne;loriae;Oreophryne loriae;m;23.03;9.92;10.11;6.34;9.62;6;7.98;5.68;5;5.89;1.43;1.62;1.44;1.5;7.324992;6.7824;0;arboreal
+436;JR363;627;Oreophryne;loriae;Oreophryne loriae;m;22.9;10.24;10.93;7.71;6.61;6.07;8.05;6.87;5.4;5.92;0.83;1.19;0.83;0.88;3.101378;2.293456;0;arboreal
+472;JR397;631;Oreophryne;loriae;Oreophryne loriae;f;25.45;9.42;9.25;6.47;9.82;6.78;8.21;5.86;5.19;6.77;1.53;1.67;1.41;1.61;7.393758;7.128114;0;arboreal
+219;JR122;349;Oreophryne;sp;Oreophryne sp;m;23.32;10.82;10.78;7.43;10.09;7.71;8.65;6.87;5.7;7.45;1.68;1.99;1.08;1.76;6.748488;5.968512;1;arboreal
+356;JR29;198;Oreophryne;sp;Oreophryne sp;m;24.75;11.16;10.73;6.84;10.69;7.11;8.78;6.77;5.46;7.56;1.29;1.85;1.14;1.52;6.62226;5.440992;1;arboreal
+515;JR54;251;Oreophryne;sp;Oreophryne sp;m;24.15;9.68;10.58;6.83;10.53;6.93;8.65;6.69;4.84;6.93;1.35;1.89;1.14;1.66;6.765444;5.942136;2;arboreal
+530;JR69;195;Oreophryne;sp;Oreophryne sp;m;25.59;10.64;10.61;6.98;10.88;7.23;8.29;6.82;6.03;7.14;1.35;2.04;1.44;1.66;9.224064;7.505856;0;arboreal
+535;JR73;316;Oreophryne;sp;Oreophryne sp;m;26.41;11.24;11.51;7.52;11.62;8.26;8.73;7.28;6.21;7.55;1.18;2.04;1.44;1.85;9.224064;8.36496;1;arboreal
+537;JR75;311;Oreophryne;sp;Oreophryne sp;m;25.31;9.87;11.14;7.11;10.29;7.65;8.78;6.73;5.67;5.57;1.29;1.85;1.18;1.57;6.85462;5.817164;1;arboreal
+539;JR77;324;Oreophryne;sp;Oreophryne sp;m;25.11;11.14;10.82;6.76;10.46;7.03;8.56;6.74;5.03;7.42;1.49;1.22;1.27;1.1;4.865116;4.38658;0;arboreal
+541;JR79;342;Oreophryne;sp;Oreophryne sp;m;24.45;11.04;11.06;7.21;11.4;7.94;8.69;7.1;6.03;7.39;1.18;1.89;1.38;1.67;8.189748;7.236444;2;arboreal
+547;JR85;206;Oreophryne;sp;Oreophryne sp;m;25.26;10.79;11.07;7.09;10.89;7.01;8.64;7.18;5.92;7.1;1.38;1.88;1.37;1.61;8.087384;6.925898;0;arboreal
+201;JR10;211;Paedophryne;sp. 1;Paedophryne sp. 1;m;6.12;2.86;2.92;1.59;2.48;1.82;2.45;1.85;1.65;0.84;0.18;0.18;0.16;0.25;0.090432;0.1256;0;leaf
+210;JR11;214;Paedophryne;sp. 1;Paedophryne sp. 1;m;5.88;3.05;2.73;1.4;2.6;1.13;2;2.3;1.7;1.16;0.23;0.2;0.23;0.27;0.14444;0.194994;0;leaf
+216;JR12;212;Paedophryne;sp. 1;Paedophryne sp. 1;m;4.79;2.28;2.24;1.27;1.62;1.4;1.93;1.32;0.77;0.98;0.1;0.09;0.12;0.16;0.033912;0.060288;0;leaf
+228;JR14;213;Paedophryne;sp. 1;Paedophryne sp. 1;m;6.37;2.97;2.9;2.07;2.28;1.66;2.42;1.64;1.38;1.01;0.23;0.24;0.32;0.42;0.241152;0.422016;0;leaf
+279;JR20;288;Paedophryne;sp. 1;Paedophryne sp. 1;m;6.72;3.15;2.83;1.82;2.56;2.28;2.74;1.87;1.57;1.23;0.12;1.15;0.31;0.34;1.11941;0.330956;0;leaf
+312;JR24;216;Paedophryne;sp. 1;Paedophryne sp. 1;m;7.43;3.51;3.51;2.48;2.97;2.05;2.62;3.52;1.63;1.61;0.14;0.18;0.25;0.45;0.1413;0.35325;0;leaf
+368;JR30;217;Paedophryne;sp. 1;Paedophryne sp. 1;m;5.27;2.44;2.33;1.58;1.95;1.83;2.2;1.59;0.87;0.8;0.09;0.09;0.16;0.2;0.045216;0.10048;0;leaf
+517;JR56;291;Paedophryne;sp. 1;Paedophryne sp. 1;m;7.42;3.47;3.05;2.43;2.99;2.33;2.7;3.86;1.6;1.46;0.2;0.19;0.37;0.3;0.220742;0.34854;0;leaf
+346;JR280;486;Paedophryne;sp. 2;Paedophryne sp. 2;m;6.69;3.74;3.53;1.91;2.7;1.27;2.46;1.44;1.61;1.07;0.21;0.23;0.23;0.28;0.166106;0.202216;0;leaf
+348;JR282;487;Paedophryne;sp. 2;Paedophryne sp. 2;m;7.87;3.38;3.67;2.56;3.03;2.69;3.21;3.12;1.7;1.24;0.16;0.21;0.31;0.31;0.204414;0.301754;0;leaf
+240;JR156;248;Xenobatrachus;sp;Xenobatrachus sp;na;19.29;8.8;9.15;6.04;9.5;5.55;7.4;4.32;3.44;4.23;0.57;0.46;0.86;0.8;1.242184;2.16032;0;fossorial
+443;JR37;327;Xenobatrachus;sp;Xenobatrachus sp;m;36.41;14.08;15.99;10.25;15.11;8.68;12.37;9.32;7.29;7.77;0.47;0.68;1.34;1.31;2.861168;5.511956;0;fossorial
+476;JR40;328;Xenobatrachus;sp;Xenobatrachus sp;na;35.93;13.84;14.38;9.06;15.34;9.08;12.52;7.81;6.27;7.49;0.68;0.6;1.08;1.06;2.03472;3.594672;0;fossorial
+497;JR42;325;Xenobatrachus;sp;Xenobatrachus sp;m;32.76;15.26;14.73;8.33;15.08;7.69;11.51;8.75;5.94;7.29;0.65;0.75;1.21;1.26;2.84955;4.787244;0;fossorial
+507;JR46;314;Xenobatrachus;sp;Xenobatrachus sp;na;33.59;15.45;15.17;9.5;15.71;9.03;12.92;9.56;5.45;7.11;0.52;0.65;1.23;1.05;2.51043;4.05531;0;fossorial
+509;JR48;329;Xenobatrachus;sp;Xenobatrachus sp;na;34.33;16.54;16.45;10.7;16.75;8.87;12.7;9.66;6.75;7.62;0.88;0.84;1.4;1.41;3.69264;6.19836;0;fossorial
+516;JR55;221;Xenobatrachus;sp;Xenobatrachus sp;m;33.39;16.56;15.66;9.91;16.01;8.41;12.75;9.57;7.46;7.5;0.93;0.94;1.26;1.26;3.719016;4.985064;0;fossorial
